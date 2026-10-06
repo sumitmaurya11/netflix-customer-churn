@@ -1,0 +1,485 @@
+customer_id,age,gender,subscription_type,monthly_fee,watch_hours,last_login_days,region,device,payment_method,number_of_profiles,avg_watch_time_per_day,favorite_genre,actual_churn,predicted_churn,churn_probability,risk_level,retention_segment
+001b5926-1113-493d-80a4-f09012f2f43b,24,Female,Basic,8.99,2.3,37,Oceania,Mobile,Gift Card,4,0.06,Romance,1,1,0.9991793616478106,High Risk,Win Back Inactive
+a0fc6f9f-8c84-43ef-9dcd-2d0cab4faaf2,33,Male,Basic,8.99,3.15,42,North America,Mobile,Crypto,1,0.07,Drama,1,1,0.9990153434988044,High Risk,Win Back Inactive
+797e3a2d-50ad-478d-9f62-48f49771dd87,44,Other,Basic,8.99,1.06,37,Asia,Desktop,Crypto,1,0.03,Comedy,1,1,0.9988232840474868,High Risk,Win Back Inactive
+356a678e-8341-481b-b1dd-c3bf8085cdf3,70,Female,Basic,8.99,4.04,52,Asia,Mobile,Crypto,3,0.08,Drama,1,1,0.9987650700406221,High Risk,Win Back Inactive
+6f635592-2a83-4d81-bfc8-1bc88a9a26a2,38,Other,Basic,8.99,1.13,41,Asia,Desktop,Crypto,2,0.03,Comedy,1,1,0.9987145883953129,High Risk,Win Back Inactive
+eb0149c4-6c4f-4467-92f1-32a3745766f7,69,Other,Basic,8.99,3.12,47,South America,Mobile,Crypto,3,0.07,Documentary,1,1,0.9985973992193611,High Risk,Win Back Inactive
+735190c8-4a3d-46a6-885f-795f3ecdad42,31,Female,Basic,8.99,2.82,51,North America,Desktop,Credit Card,2,0.05,Action,1,1,0.9979256094491825,High Risk,Win Back Inactive
+31f8fd87-aea7-4f86-ac51-080bbd39c074,51,Other,Basic,8.99,3.64,50,South America,TV,Debit Card,1,0.07,Action,1,1,0.9978654601990885,High Risk,Win Back Inactive
+cce5be2a-9112-4447-93af-db8dd2263ed1,50,Male,Basic,8.99,0.3,43,Africa,Laptop,Gift Card,3,0.01,Sci-Fi,1,1,0.9978546169781284,High Risk,Win Back Inactive
+06571e46-9baa-43e8-a233-e03930636b84,59,Female,Basic,8.99,2.44,55,Africa,Tablet,Crypto,1,0.04,Comedy,1,1,0.9977551296542592,High Risk,Win Back Inactive
+1e0c89ad-a44c-479e-b2b5-eb8e35cc0f41,30,Female,Basic,8.99,2.99,51,Europe,Laptop,Credit Card,4,0.06,Horror,1,1,0.9976993751959607,High Risk,Win Back Inactive
+a952d34f-2ec1-4daf-9ee0-9c06351caa91,28,Female,Basic,8.99,2.66,55,Africa,Laptop,Crypto,5,0.05,Action,1,1,0.9976940992219346,High Risk,Win Back Inactive
+eb295874-e3cf-4c03-8fcc-0d20f7002487,31,Male,Basic,8.99,1.04,46,South America,TV,PayPal,1,0.02,Romance,1,1,0.9976863084906937,High Risk,Win Back Inactive
+16e5f52c-b9a9-4682-bd78-bab672de433f,48,Male,Basic,8.99,2.12,52,North America,Laptop,Crypto,5,0.04,Documentary,1,1,0.9976642377876814,High Risk,Win Back Inactive
+6c6c1bb7-6107-461d-ae34-e6759269a77d,28,Female,Basic,8.99,2.63,54,Europe,TV,Credit Card,4,0.05,Action,1,1,0.9975947211618579,High Risk,Win Back Inactive
+d0c512fc-8212-4d61-9ad2-dce10af1dbf7,52,Female,Basic,8.99,3.59,42,Africa,TV,Gift Card,4,0.08,Sci-Fi,1,1,0.9974021555478915,High Risk,Win Back Inactive
+eaf0471b-e553-4302-a1aa-cf3284f3a3a9,34,Female,Basic,8.99,0.95,44,Asia,Mobile,PayPal,4,0.02,Action,1,1,0.9973203027422798,High Risk,Win Back Inactive
+602855b3-cd60-4b34-9201-1dfb89a22d88,49,Other,Basic,8.99,3.16,31,Asia,Desktop,Gift Card,5,0.1,Action,1,1,0.9972586460541499,High Risk,Win Back Inactive
+2adb38da-c9e8-43dc-b500-4ebdfc5187e1,45,Male,Basic,8.99,1.98,53,Europe,Laptop,Crypto,5,0.04,Documentary,1,1,0.9971954877876814,High Risk,Win Back Inactive
+3988c64c-4754-489c-bf86-146be943c7b8,25,Other,Basic,8.99,2.2,55,North America,Tablet,Gift Card,4,0.04,Romance,1,1,0.9969717075848006,High Risk,Win Back Inactive
+4f808be4-e7f6-424a-87e8-61497b1afee7,50,Male,Basic,8.99,3.28,59,Africa,Tablet,Gift Card,3,0.05,Documentary,1,1,0.9969579835328026,High Risk,Win Back Inactive
+aaf5f091-7785-48d1-84e9-fa47bf7525e5,70,Female,Basic,8.99,2.46,53,South America,Laptop,Crypto,1,0.05,Drama,1,1,0.9969470631650439,High Risk,Win Back Inactive
+dcaf88dd-7810-44bb-ab55-d2ad4410ad63,44,Other,Basic,8.99,1.4,58,Asia,TV,Debit Card,5,0.02,Drama,1,1,0.99684005041123,High Risk,Win Back Inactive
+08d9dcda-cbfc-4b6b-adc8-658ae78cdcf3,29,Female,Basic,8.99,1.77,47,Oceania,Laptop,Credit Card,3,0.04,Documentary,1,1,0.9967087238540283,High Risk,Win Back Inactive
+ce3fbd40-95b0-45e9-b263-3c8ec20036c0,23,Other,Basic,8.99,2.91,40,Oceania,Tablet,PayPal,3,0.07,Drama,1,1,0.9966224495804865,High Risk,Win Back Inactive
+1170be2f-64e5-4819-856d-961cd44a38d4,57,Male,Basic,8.99,4.35,39,South America,Laptop,Debit Card,1,0.11,Action,1,1,0.9965422817360754,High Risk,Win Back Inactive
+6c9f98ff-4f0f-4639-85d0-5e401d743a4c,52,Male,Basic,8.99,0.41,48,Europe,TV,Credit Card,5,0.01,Documentary,1,1,0.9963141528237186,High Risk,Win Back Inactive
+3cf735c4-c340-44e5-9fe5-b5aee7b4d3d9,42,Other,Basic,8.99,0.33,43,Oceania,TV,Gift Card,2,0.01,Documentary,1,1,0.996279120770766,High Risk,Win Back Inactive
+9176aa47-8f35-4b61-aa0c-7f5e82ef4315,31,Female,Basic,8.99,0.42,43,Oceania,Tablet,Credit Card,3,0.01,Documentary,1,1,0.9962745152324392,High Risk,Win Back Inactive
+7e4e462c-f211-4671-b964-ee732464853e,67,Female,Basic,8.99,3.68,34,North America,Tablet,PayPal,1,0.11,Sci-Fi,1,1,0.9961519209566663,High Risk,Win Back Inactive
+177ad6c2-46ed-4fbb-a3f8-1dc137c45417,36,Other,Basic,8.99,1.11,39,Oceania,TV,Credit Card,1,0.03,Documentary,1,1,0.9960907145457226,High Risk,Win Back Inactive
+3585efe7-1d69-4db5-ac08-839a0e8df609,56,Female,Basic,8.99,2.86,58,Asia,TV,Crypto,3,0.05,Romance,1,1,0.9959785762085422,High Risk,Win Back Inactive
+0bc417ee-3f71-4373-a8cc-331b1aa4a350,48,Other,Basic,8.99,1.61,41,Africa,Laptop,Credit Card,2,0.04,Drama,1,1,0.995430947785126,High Risk,Win Back Inactive
+7ae851ab-037f-41f3-b58a-a54190149ed0,24,Female,Basic,8.99,0.19,49,Oceania,Tablet,Crypto,3,0.0,Romance,1,1,0.9954297971531894,High Risk,Win Back Inactive
+8b321e79-2eea-4412-8d82-1d3178d5bf05,36,Male,Basic,8.99,0.38,44,Oceania,Laptop,Crypto,2,0.01,Comedy,1,1,0.9952935581928002,High Risk,Win Back Inactive
+12ddaf98-d735-4343-954a-5269936b4d85,49,Other,Basic,8.99,1.17,46,South America,Laptop,Debit Card,1,0.02,Romance,1,1,0.9952779600126535,High Risk,Win Back Inactive
+d66b7151-9251-4e63-8bac-8784764de25b,64,Other,Basic,8.99,3.84,38,Africa,Tablet,Credit Card,1,0.1,Documentary,1,1,0.9950944261304282,High Risk,Win Back Inactive
+2e409def-802a-4a41-9972-8c8864802af3,38,Other,Basic,8.99,4.26,42,Europe,Mobile,Gift Card,5,0.1,Action,1,1,0.9950234645183548,High Risk,Win Back Inactive
+1a2dcd89-e8ac-4205-abd6-4f2fa9a6559a,44,Female,Basic,8.99,3.72,37,Oceania,TV,Debit Card,1,0.1,Documentary,1,1,0.9948340485701813,High Risk,Win Back Inactive
+1aab7315-184d-4e18-8338-071aab257e63,55,Male,Basic,8.99,2.74,44,South America,Laptop,Credit Card,4,0.06,Documentary,1,1,0.9948206599878593,High Risk,Win Back Inactive
+7ce062a1-89ad-45c1-a25a-0b3b4ee4ec72,47,Other,Basic,8.99,0.39,48,South America,Tablet,PayPal,5,0.01,Romance,1,1,0.9942752930705026,High Risk,Win Back Inactive
+32f97948-ac90-446f-ba8f-0da203d8d523,34,Other,Basic,8.99,5.95,37,South America,Tablet,Crypto,2,0.16,Comedy,1,1,0.9942634888997314,High Risk,Win Back Inactive
+ef23baaf-4a7b-41d2-903f-4f772ab31c26,22,Other,Basic,8.99,0.91,39,South America,Tablet,Crypto,1,0.02,Drama,1,1,0.994197350022902,High Risk,Win Back Inactive
+5ce52697-adf6-410e-9fa4-136a826020d3,18,Other,Basic,8.99,0.59,41,Asia,Desktop,Debit Card,5,0.01,Horror,1,1,0.9941710738535273,High Risk,Win Back Inactive
+4accb3d6-cb3e-4912-955e-5c7ab5b2f60a,57,Female,Basic,8.99,0.71,42,North America,TV,Debit Card,4,0.02,Sci-Fi,1,1,0.9941645227454711,High Risk,Win Back Inactive
+07aaee5a-c849-49f0-bc95-4ec089ebd3fd,63,Male,Basic,8.99,3.01,60,South America,TV,Debit Card,5,0.05,Drama,1,1,0.9939441675351136,High Risk,Win Back Inactive
+fff878e7-afef-4b0f-9934-6f5b2819e20d,58,Female,Basic,8.99,3.41,34,Oceania,Tablet,Gift Card,2,0.1,Sci-Fi,1,1,0.9938329724147522,High Risk,Win Back Inactive
+cca8b581-77d7-49a1-91e5-6e68aed943a2,34,Female,Basic,8.99,7.93,60,Asia,Desktop,Crypto,1,0.13,Action,1,1,0.9935873599918588,High Risk,Win Back Inactive
+9f356c38-182c-4951-b612-e9412297b50d,18,Other,Basic,8.99,3.89,33,Europe,Tablet,Debit Card,1,0.11,Action,1,1,0.9935235501296817,High Risk,Win Back Inactive
+2eba8457-300a-470e-add1-a90f68e6b02a,31,Other,Basic,8.99,2.36,46,North America,TV,Credit Card,2,0.05,Romance,1,1,0.9926626669975507,High Risk,Win Back Inactive
+26b02b3c-52b1-4c5e-b5d7-62e599a4e310,65,Male,Basic,8.99,4.85,45,Africa,Laptop,Crypto,4,0.11,Romance,1,1,0.9926478909486472,High Risk,Win Back Inactive
+c8e2f96a-60f2-42b0-86f4-b7f16868f196,51,Other,Basic,8.99,2.29,51,North America,Laptop,Credit Card,3,0.04,Sci-Fi,1,1,0.9924277410080673,High Risk,Win Back Inactive
+021af9d9-2fff-4a33-b2c4-710ad6f3f85c,64,Other,Basic,8.99,4.8,46,Oceania,Laptop,Credit Card,1,0.1,Romance,1,1,0.9923208394064131,High Risk,Win Back Inactive
+732d67f8-5996-46fe-9b35-695e2c344cee,65,Female,Basic,8.99,3.46,48,Oceania,Tablet,Credit Card,4,0.07,Drama,1,1,0.9920996365020797,High Risk,Win Back Inactive
+1cec8e1a-078f-4340-ba27-a583a615df39,56,Female,Basic,8.99,2.54,39,North America,Desktop,PayPal,5,0.06,Sci-Fi,1,1,0.9919744643671021,High Risk,Win Back Inactive
+155fbfe6-62e7-4937-aecd-8b8c14595c20,48,Male,Basic,8.99,0.91,38,South America,Tablet,Debit Card,4,0.02,Romance,1,1,0.9918654501413978,High Risk,Win Back Inactive
+d59ba34e-6680-40f2-ae1a-14f2d2c88e91,56,Female,Basic,8.99,8.3,55,Asia,TV,PayPal,3,0.15,Comedy,1,1,0.991744495389548,High Risk,Win Back Inactive
+887801e2-9db1-4956-a541-c39601fb5c06,21,Other,Basic,8.99,0.54,36,Asia,TV,Credit Card,2,0.01,Sci-Fi,1,1,0.9915777447735548,High Risk,Win Back Inactive
+05c4636f-6e42-4460-9449-9667b4ce9fbd,25,Female,Basic,8.99,0.17,58,Africa,Tablet,PayPal,4,0.0,Documentary,1,1,0.991492197329503,High Risk,Win Back Inactive
+a673ecc2-3f9e-49c8-a8a0-33518170fc75,26,Other,Basic,8.99,0.75,59,North America,Tablet,Crypto,2,0.01,Horror,1,1,0.9913074535639487,High Risk,Win Back Inactive
+012128df-8b33-420d-89d1-4716b755bda8,54,Male,Basic,8.99,5.47,36,South America,Mobile,Credit Card,1,0.15,Comedy,1,1,0.9912379328998082,High Risk,Win Back Inactive
+c51b4715-3ce4-49e7-9102-508107212399,66,Female,Premium,17.99,2.29,52,Europe,Desktop,Crypto,2,0.04,Romance,1,1,0.9907467909509016,High Risk,Win Back Inactive
+c154deff-4e9e-4fe4-9d67-f48908ff54d9,40,Female,Basic,8.99,3.95,34,Oceania,Tablet,Debit Card,4,0.11,Comedy,1,1,0.9905988846214033,High Risk,Win Back Inactive
+2e278144-386b-48ff-9777-dbe15a249e13,44,Male,Standard,13.99,2.0,40,Oceania,Laptop,Gift Card,1,0.05,Action,1,1,0.9904299916554471,High Risk,Win Back Inactive
+1b03740b-7608-4b96-a78e-b48bebde5337,53,Male,Basic,8.99,3.37,54,South America,Desktop,PayPal,5,0.06,Comedy,1,1,0.9900636082990262,High Risk,Win Back Inactive
+2cf69775-8761-45e2-a44d-b4bd0669b757,55,Other,Premium,17.99,1.63,52,Africa,Tablet,Gift Card,1,0.03,Action,1,1,0.9899760111648337,High Risk,Win Back Inactive
+581e6697-714a-4270-a0ee-fa3f59b0af0c,46,Female,Standard,13.99,3.07,51,Europe,Tablet,Crypto,2,0.06,Documentary,1,1,0.9899235787039439,High Risk,Win Back Inactive
+66ee8b3e-54d4-47b0-9bdf-a9830a3be6f0,62,Female,Basic,8.99,6.67,47,North America,TV,Gift Card,2,0.14,Documentary,1,1,0.9898490283508999,High Risk,Win Back Inactive
+561b865b-5d18-4836-b50e-f40bde688bcf,35,Female,Basic,8.99,5.0,48,Africa,Desktop,Crypto,1,0.1,Drama,1,1,0.9896940078512041,High Risk,Win Back Inactive
+0cff8cd5-ab3c-4116-8edb-fa314b5a3273,56,Male,Standard,13.99,0.49,44,Europe,TV,Gift Card,3,0.01,Romance,1,1,0.989661103762139,High Risk,Win Back Inactive
+ca44d69c-f059-423e-82e2-65550f1314be,31,Female,Basic,8.99,9.44,46,Asia,Tablet,PayPal,2,0.2,Action,1,1,0.9896187993742093,High Risk,Win Back Inactive
+d2a0854f-8b84-470a-8f81-ce7c2949e216,63,Male,Basic,8.99,4.09,55,South America,Desktop,Credit Card,1,0.07,Romance,1,1,0.9894566571876168,High Risk,Win Back Inactive
+2a99d3ad-4874-4d00-a714-5e17ab8be70e,49,Male,Basic,8.99,3.34,50,Africa,Laptop,Credit Card,5,0.07,Sci-Fi,1,1,0.9894509237072444,High Risk,Win Back Inactive
+35fd09b4-e9f0-4d81-9839-c48198d46cf2,18,Female,Basic,8.99,5.19,37,South America,Tablet,Crypto,1,0.14,Romance,1,1,0.9893137917165099,High Risk,Win Back Inactive
+d5dbc55b-8ef1-4988-a9b0-c45505ca2431,28,Other,Basic,8.99,4.82,31,North America,Desktop,Crypto,5,0.15,Drama,1,1,0.9891675131943078,High Risk,Win Back Inactive
+7f047317-dfff-44b6-b4fc-4d3b7493da6b,66,Other,Basic,8.99,5.33,36,Africa,Mobile,Credit Card,2,0.14,Romance,1,1,0.9890265779087081,High Risk,Win Back Inactive
+b794556e-1123-4c20-bc98-4ad400d68f76,35,Female,Standard,13.99,2.19,57,Oceania,Tablet,Gift Card,2,0.04,Comedy,1,1,0.9888506232197305,High Risk,Win Back Inactive
+cc1eecc4-1916-4342-9400-b18c036d98e5,43,Female,Standard,13.99,1.86,52,Asia,Tablet,Gift Card,3,0.04,Comedy,1,1,0.9886691459143071,High Risk,Win Back Inactive
+9eec0f0f-8898-49ab-bdd4-59839a8a1d9d,67,Female,Basic,8.99,6.88,44,Africa,Laptop,Gift Card,4,0.15,Horror,1,1,0.9885159162507864,High Risk,Win Back Inactive
+d78f5876-1525-463f-9790-58f96401020d,31,Female,Basic,8.99,9.11,51,South America,Laptop,PayPal,3,0.18,Comedy,1,1,0.988397839813669,High Risk,Win Back Inactive
+7016829c-88f3-4821-9fc1-ce5343e53906,31,Female,Premium,17.99,1.02,39,Oceania,Laptop,Crypto,3,0.03,Drama,1,1,0.9883535260499599,High Risk,Win Back Inactive
+d35e9995-4a42-438c-a56f-dff2e9acc65e,39,Other,Basic,8.99,1.28,39,South America,Desktop,Credit Card,5,0.03,Documentary,1,1,0.988329847751718,High Risk,Win Back Inactive
+5fd52a5c-0e8a-4c1f-bce7-fb565f654413,58,Other,Basic,8.99,5.36,59,Oceania,TV,Crypto,1,0.09,Comedy,1,1,0.9882026132307746,High Risk,Win Back Inactive
+7987069d-efaa-4d6b-bf85-de78408157c5,67,Other,Basic,8.99,4.31,37,Africa,Laptop,Debit Card,5,0.11,Sci-Fi,1,1,0.9881998715788345,High Risk,Win Back Inactive
+fcd90302-e7f6-4679-ac49-cffe71a7ee46,54,Other,Premium,17.99,3.66,40,Oceania,TV,Gift Card,1,0.09,Documentary,1,1,0.9881649374926684,High Risk,Win Back Inactive
+adbfc678-4fe5-4b2e-b071-f72b8bdf9aa1,47,Other,Basic,8.99,5.91,53,North America,Desktop,Credit Card,2,0.11,Sci-Fi,1,1,0.9881515408725887,High Risk,Win Back Inactive
+e4cedabe-2ad7-4c28-ad24-34ad6ac0a7db,46,Male,Standard,13.99,0.89,35,Oceania,Tablet,Gift Card,1,0.02,Drama,1,1,0.988050870632629,High Risk,Win Back Inactive
+7514941b-007c-44ea-90ee-4ae0690f013d,56,Male,Standard,13.99,2.95,52,Europe,Tablet,Gift Card,1,0.06,Drama,1,1,0.9880386041188691,High Risk,Win Back Inactive
+139a0e01-29df-48c9-bdad-fa7801585dea,31,Female,Standard,13.99,0.96,55,North America,Laptop,Crypto,3,0.02,Action,1,1,0.9879837125670455,High Risk,Win Back Inactive
+a28580ec-90be-4f6d-ab87-619d8f0679b0,19,Other,Standard,13.99,3.16,43,Oceania,Mobile,Gift Card,1,0.07,Horror,1,1,0.9879502636627601,High Risk,Win Back Inactive
+ebfb6de4-10aa-40fd-8f58-14f5bbe80d7f,48,Female,Basic,8.99,5.22,51,Europe,TV,Gift Card,2,0.1,Documentary,1,1,0.9879041073984725,High Risk,Win Back Inactive
+57ffc492-dcb6-416b-a4f3-7109014eb262,26,Female,Premium,17.99,3.87,45,Asia,TV,Gift Card,2,0.08,Documentary,1,1,0.9875732711781992,High Risk,Win Back Inactive
+dfc2c37e-28ec-47db-bfd9-87dce42a6384,62,Female,Standard,13.99,1.62,37,North America,TV,Crypto,3,0.04,Horror,1,1,0.987375763980994,High Risk,Win Back Inactive
+c86cc60f-22f1-4233-829a-59d67a049bc7,70,Male,Basic,8.99,6.86,58,Europe,Tablet,PayPal,1,0.12,Action,1,1,0.9873755153237714,High Risk,Win Back Inactive
+f376f532-f75b-4c60-b56e-08527a7facca,23,Male,Standard,13.99,0.29,58,Europe,Desktop,Gift Card,2,0.0,Documentary,1,1,0.9872566900684447,High Risk,Win Back Inactive
+242a83be-25ed-4b50-966e-126fa3bda7d0,44,Male,Basic,8.99,4.89,35,Oceania,Laptop,PayPal,3,0.14,Drama,1,1,0.987199650502049,High Risk,Win Back Inactive
+eab381c2-b6d8-434b-bc0d-a8631c8c5dbe,66,Other,Standard,13.99,0.76,44,Europe,Tablet,Gift Card,2,0.02,Action,1,1,0.9868681610943548,High Risk,Win Back Inactive
+3fa23200-518c-4593-983c-1114bf8ee2e7,63,Other,Standard,13.99,3.13,45,North America,Laptop,Gift Card,2,0.07,Sci-Fi,1,1,0.9867287861922662,High Risk,Win Back Inactive
+4ffd8a27-1149-4b0c-a822-1da56b80b212,30,Female,Basic,8.99,6.53,49,Africa,Tablet,Gift Card,5,0.13,Sci-Fi,1,1,0.9867035358527723,High Risk,Win Back Inactive
+1b8d684d-619c-41b0-9e21-ae96bf84dcf7,24,Other,Standard,13.99,0.72,56,South America,TV,Crypto,2,0.01,Romance,1,1,0.9866412690677063,High Risk,Win Back Inactive
+5dbd7687-5f99-4393-93cd-22ad811b4d22,63,Other,Standard,13.99,3.8,57,North America,TV,Crypto,3,0.07,Action,1,1,0.9862050092753448,High Risk,Win Back Inactive
+49fa3709-598c-42ec-9f7f-3fe2952a7a9d,27,Female,Standard,13.99,1.04,54,South America,Tablet,Crypto,3,0.02,Romance,1,1,0.986200903975279,High Risk,Win Back Inactive
+1f0e4cc1-431d-4fbe-89ca-3bd42241cd29,28,Other,Standard,13.99,2.06,59,Asia,Mobile,Crypto,2,0.03,Romance,1,1,0.9860861136725503,High Risk,Win Back Inactive
+0f6eeb6a-a13b-49df-aa42-65048a3879e7,51,Other,Basic,8.99,7.53,39,Africa,Mobile,Credit Card,3,0.19,Drama,1,1,0.9858577058345088,High Risk,Win Back Inactive
+63f9d986-7068-49e3-b822-fab8e0a49bc1,31,Male,Basic,8.99,7.69,57,Africa,Desktop,Debit Card,2,0.13,Comedy,1,1,0.9857113026701856,High Risk,Win Back Inactive
+df2e5ee6-a486-4cd8-b452-959e63e397c6,67,Male,Premium,17.99,2.24,34,Africa,TV,Crypto,2,0.06,Action,1,1,0.9854444157356549,High Risk,Win Back Inactive
+c85a5890-a887-41bf-b866-5cd201747ede,28,Female,Premium,17.99,4.14,37,South America,Tablet,Gift Card,2,0.11,Documentary,1,1,0.9853540578285893,High Risk,Win Back Inactive
+72913cf5-928b-4c70-9fdf-23f320b7387e,48,Male,Basic,8.99,13.29,45,Oceania,Tablet,Debit Card,2,0.29,Romance,1,1,0.9850782398763502,High Risk,Win Back Inactive
+029e94b4-bc1c-4602-a8ef-7fe92c78f4c2,58,Female,Basic,8.99,8.4,44,Africa,Laptop,Gift Card,2,0.19,Documentary,1,1,0.9849644030170615,High Risk,Win Back Inactive
+32fb3202-3001-457c-b218-60b3e3bfe26b,54,Male,Basic,8.99,14.95,44,Europe,Desktop,Debit Card,1,0.33,Horror,1,1,0.9848370297253858,High Risk,Win Back Inactive
+68afcc40-9bb4-4903-a7ce-3c64492794f6,69,Female,Standard,13.99,3.47,58,South America,Laptop,Gift Card,3,0.06,Comedy,1,1,0.9847981747426346,High Risk,Win Back Inactive
+9e87210e-05ee-4e33-9e89-9cd544cf9a4e,51,Female,Premium,17.99,3.82,34,Asia,TV,Gift Card,1,0.11,Horror,1,1,0.9847905576572102,High Risk,Win Back Inactive
+e7336493-b9bd-47ee-9298-a74a91625ab9,57,Other,Basic,8.99,6.73,51,North America,Desktop,Debit Card,1,0.13,Romance,1,1,0.9844407801215118,High Risk,Win Back Inactive
+aa6f379a-ce91-484e-b54e-c1223dd2a9c0,19,Female,Standard,13.99,0.17,34,Europe,Laptop,Gift Card,3,0.0,Romance,1,1,0.9841782025288094,High Risk,Win Back Inactive
+f83a42d7-d5e6-4e72-ad56-651f51927aca,67,Male,Basic,8.99,6.47,47,Europe,TV,PayPal,2,0.13,Sci-Fi,1,1,0.9835824039726658,High Risk,Win Back Inactive
+6bbbd9ca-d3d6-443d-aed6-a5c6d9a6aa03,66,Male,Basic,8.99,7.0,39,Asia,TV,Debit Card,2,0.17,Sci-Fi,1,1,0.9833852234214356,High Risk,Win Back Inactive
+c6f3374b-7a7f-4219-b194-f0c989f78cfc,23,Female,Basic,8.99,5.06,36,Europe,Tablet,Debit Card,3,0.14,Comedy,1,1,0.9832277384782873,High Risk,Win Back Inactive
+12a181f8-58ca-45ab-968b-af28ef28b37b,45,Male,Premium,17.99,0.45,44,Asia,Mobile,Debit Card,3,0.01,Comedy,1,1,0.9824929052618764,High Risk,Win Back Inactive
+6e8f06ec-bf9b-4aca-82c9-6dfbf5dc0d77,28,Male,Standard,13.99,1.78,35,South America,Mobile,Debit Card,3,0.05,Action,1,1,0.9823245898503333,High Risk,Win Back Inactive
+39f699b0-d6db-4b6d-9c15-b8bbc716ce34,38,Male,Basic,8.99,15.32,56,Europe,Mobile,Crypto,2,0.27,Action,1,1,0.9823013674151823,High Risk,Win Back Inactive
+74dcb7c7-74c6-43e6-9034-d1a72adad651,44,Female,Basic,8.99,9.03,49,Oceania,Desktop,Credit Card,2,0.18,Documentary,1,1,0.9818912311273376,High Risk,Win Back Inactive
+2f6ecf7c-ed0c-4011-8d13-90edf44b305d,65,Other,Premium,17.99,4.11,41,Asia,Mobile,Gift Card,2,0.1,Drama,1,1,0.9817980407141199,High Risk,Win Back Inactive
+0090f79e-a776-489a-9112-5f71e7870f94,53,Female,Standard,13.99,0.89,42,Europe,TV,Credit Card,3,0.02,Romance,1,1,0.9817742426760101,High Risk,Win Back Inactive
+e4b24812-efbd-4593-9d9c-00b531d763c4,58,Female,Basic,8.99,5.08,48,Asia,TV,PayPal,5,0.1,Documentary,1,1,0.9813492794791194,High Risk,Win Back Inactive
+94096f6c-620a-4bb2-a60e-37dd3f3b1c53,33,Female,Basic,8.99,6.73,46,South America,Desktop,Credit Card,2,0.14,Drama,1,1,0.981173227148224,High Risk,Win Back Inactive
+5508c3b7-0927-40eb-9e4f-b9fed144ab44,62,Female,Basic,8.99,5.64,36,Europe,Tablet,Gift Card,5,0.15,Horror,1,1,0.9808698182742814,High Risk,Win Back Inactive
+f0a64ef5-b531-4c85-9f81-5ce41490de02,43,Male,Basic,8.99,10.02,50,Europe,TV,Credit Card,1,0.2,Drama,1,1,0.9806382510200788,High Risk,Win Back Inactive
+6a99ebb0-cc9f-45ab-b6e9-4791602ae7c4,35,Female,Standard,13.99,3.26,39,Europe,Tablet,Debit Card,2,0.08,Drama,1,1,0.980392477347572,High Risk,Win Back Inactive
+d3cdf140-4887-4f53-a5d3-ec891892c883,36,Male,Premium,17.99,0.98,55,Oceania,Mobile,Debit Card,2,0.02,Comedy,1,1,0.9803484531372197,High Risk,Win Back Inactive
+e623d359-0278-4bfc-82c3-86892eed77a3,18,Male,Standard,13.99,3.49,54,Oceania,Laptop,Crypto,3,0.06,Sci-Fi,1,1,0.9803234618114108,High Risk,Win Back Inactive
+bd3ee325-8a00-419a-b1a6-e976080197f5,67,Male,Basic,8.99,7.17,41,Europe,TV,Crypto,4,0.17,Comedy,1,1,0.9801871924117048,High Risk,Win Back Inactive
+ffa3c2de-0887-4b1a-9f2e-f0aaaf5ea2e5,28,Female,Premium,17.99,4.1,55,Oceania,Desktop,PayPal,2,0.07,Sci-Fi,1,1,0.9801699674147661,High Risk,Win Back Inactive
+1dfb56be-d12c-4739-aab0-0f6cd8c3031c,70,Male,Basic,8.99,6.66,55,Oceania,Desktop,Gift Card,4,0.12,Romance,1,1,0.9800192521875729,High Risk,Win Back Inactive
+0de32e81-bbd2-465d-a0bd-dc9981e9de95,51,Male,Standard,13.99,2.56,53,Oceania,Desktop,PayPal,2,0.05,Romance,1,1,0.9797978691536615,High Risk,Win Back Inactive
+00bcd65f-ca17-43af-b1a3-c0e310d52966,42,Male,Standard,13.99,1.65,41,Africa,Mobile,PayPal,3,0.04,Action,1,1,0.9796727840932175,High Risk,Win Back Inactive
+b6b3f022-6564-45d9-a070-90f66db4d09d,69,Male,Basic,8.99,7.66,46,Africa,TV,PayPal,3,0.16,Horror,1,1,0.9795847965121925,High Risk,Win Back Inactive
+7bb98f8f-da88-4641-9a18-990f20e1ec42,35,Male,Standard,13.99,1.91,38,Asia,Desktop,Debit Card,2,0.05,Drama,1,1,0.9795206862888614,High Risk,Win Back Inactive
+32484385-55d4-4c6a-ad1a-834abeaaa883,44,Other,Standard,13.99,1.46,59,North America,Tablet,PayPal,1,0.02,Documentary,1,1,0.9794403828292415,High Risk,Win Back Inactive
+79b9c555-5d7f-401d-8ac8-a13fb0c5c1cf,51,Female,Standard,13.99,4.35,44,Oceania,Laptop,Gift Card,1,0.1,Sci-Fi,1,1,0.9793258807347033,High Risk,Win Back Inactive
+66284077-a6c7-4460-9cc9-df93097a5fb5,31,Male,Basic,8.99,7.69,57,Europe,Desktop,Gift Card,5,0.13,Documentary,1,1,0.9791191101722011,High Risk,Win Back Inactive
+1ff10a52-1dd7-49be-a93f-16d96d69cfe8,59,Other,Basic,8.99,14.32,47,South America,Laptop,Credit Card,1,0.3,Horror,1,1,0.9790830745254643,High Risk,Win Back Inactive
+f8a4d03b-fdf7-4ee5-86e9-411e45645bae,22,Male,Premium,17.99,2.14,52,Oceania,TV,PayPal,2,0.04,Horror,1,1,0.9790665878412145,High Risk,Win Back Inactive
+b0fde5ba-8a38-45ee-b7fb-6c35851e8975,56,Other,Standard,13.99,4.09,56,Europe,TV,PayPal,3,0.07,Romance,1,1,0.9787435007127427,High Risk,Win Back Inactive
+bf9a7e56-2737-4931-a68d-e0b9696b65d7,29,Male,Standard,13.99,4.09,59,Europe,TV,Credit Card,2,0.07,Sci-Fi,1,1,0.9786087244463624,High Risk,Win Back Inactive
+faf370da-6bed-4d99-aa01-15b0f2868a9e,34,Male,Standard,13.99,2.94,43,Oceania,Desktop,Credit Card,2,0.07,Sci-Fi,1,1,0.9781534879882511,High Risk,Win Back Inactive
+a2794c07-a79c-43a9-ba77-bcbc4cfb17ef,26,Other,Standard,13.99,1.24,56,Asia,TV,Debit Card,1,0.02,Sci-Fi,1,1,0.9781163391425477,High Risk,Win Back Inactive
+c836e596-7e8e-4be9-8413-4d75f8151709,35,Male,Standard,13.99,1.75,41,Europe,TV,PayPal,1,0.04,Romance,1,1,0.9779052642721588,High Risk,Win Back Inactive
+5d298906-96ce-4a2a-b1f1-8e7b18bbbd25,41,Female,Basic,8.99,8.14,54,Europe,Mobile,Gift Card,5,0.15,Romance,1,1,0.9778297117094545,High Risk,Win Back Inactive
+c8cfc65c-6035-46d5-8c9c-d7bb68bf9f20,27,Other,Premium,17.99,1.44,48,Asia,Laptop,Credit Card,1,0.03,Sci-Fi,1,1,0.9777779563792803,High Risk,Win Back Inactive
+6b9ea7e4-5a75-4ad1-8e49-8b47731862a2,32,Female,Basic,8.99,6.82,42,Africa,Mobile,Credit Card,5,0.16,Comedy,1,1,0.9777531143669705,High Risk,Win Back Inactive
+3bca6390-0c4b-4f47-a993-8e49139361c3,18,Female,Standard,13.99,2.26,48,Africa,Desktop,PayPal,1,0.05,Action,1,1,0.977739584254133,High Risk,Win Back Inactive
+28750512-060a-4199-bbb4-ffa43bac55b5,59,Other,Basic,8.99,0.09,25,Europe,Laptop,Crypto,2,0.0,Sci-Fi,1,1,0.9775964125788948,High Risk,Re-engage Low Watch Time
+3fede56d-0d7a-4aa2-93b7-acc1341f620b,41,Female,Premium,17.99,0.43,60,Europe,Laptop,Debit Card,3,0.01,Action,1,1,0.9775780006060316,High Risk,Win Back Inactive
+28652897-1058-46fd-a152-0acea9e9284f,47,Female,Basic,8.99,6.39,54,Asia,TV,Crypto,4,0.12,Documentary,1,1,0.9769757535545968,High Risk,Win Back Inactive
+18c7ffea-f407-4e12-a8ca-f4cf9bb2e4ab,26,Male,Standard,13.99,2.87,50,Africa,Desktop,PayPal,3,0.06,Drama,1,1,0.9769683973472315,High Risk,Win Back Inactive
+2024bd7e-e873-48c0-9e44-5c66143e14a2,52,Female,Standard,13.99,1.69,54,South America,Laptop,Debit Card,3,0.03,Documentary,1,1,0.9768301114659653,High Risk,Win Back Inactive
+4bb2258b-b1bf-4e4a-8e25-5738517e9917,35,Other,Premium,17.99,2.43,58,Africa,TV,Credit Card,2,0.04,Action,1,1,0.9761940539156521,High Risk,Win Back Inactive
+08b55574-a0b5-45c8-abea-e84eb7b32975,38,Other,Basic,8.99,6.49,34,North America,TV,Debit Card,2,0.19,Horror,1,1,0.975728063722222,High Risk,Win Back Inactive
+6a061a82-97b7-4d14-b9ae-e7df764684b1,62,Other,Premium,17.99,4.03,50,Europe,Mobile,Gift Card,4,0.08,Horror,1,1,0.9753365621575365,High Risk,Win Back Inactive
+4641b78c-9f54-43b3-8f33-809da152aba2,36,Other,Basic,8.99,14.63,52,South America,Desktop,Crypto,1,0.28,Horror,1,1,0.9752681756501671,High Risk,Win Back Inactive
+b26a4921-90b8-4360-8834-fad7a130bfb4,24,Male,Premium,17.99,0.58,57,Europe,Tablet,PayPal,3,0.01,Sci-Fi,1,1,0.9751871739016535,High Risk,Win Back Inactive
+079d22b5-cb52-4784-862a-93eb40a6fc9d,62,Male,Basic,8.99,3.31,21,Africa,TV,Gift Card,3,0.15,Action,1,1,0.9751099905332176,High Risk,Re-engage Low Watch Time
+68fcc8f2-4100-4fb8-bc83-efdca9a49322,70,Male,Basic,8.99,11.19,40,Europe,TV,PayPal,2,0.27,Action,1,1,0.9747492837032093,High Risk,Win Back Inactive
+2841bec1-e995-44c2-a8a3-461e3eb33cb6,31,Male,Premium,17.99,2.7,51,Europe,Tablet,Crypto,5,0.05,Horror,1,1,0.9747414616145891,High Risk,Win Back Inactive
+89fa6c7c-ab59-40a0-aab5-8a9c35733ad5,27,Other,Standard,13.99,3.92,56,Oceania,Desktop,Debit Card,1,0.07,Drama,1,1,0.9744247024351586,High Risk,Win Back Inactive
+ca45e25e-8bdd-4799-8c0c-2eccdcb6bbf2,68,Female,Standard,13.99,2.58,37,South America,Tablet,Debit Card,3,0.07,Sci-Fi,1,1,0.9743684997743612,High Risk,Win Back Inactive
+4c80103d-ac0a-4e95-a494-7ba0f6388867,49,Female,Basic,8.99,1.58,29,North America,Tablet,Credit Card,4,0.05,Comedy,1,1,0.9742828690046038,High Risk,Re-engage Low Watch Time
+b512a9aa-3832-4ec2-bfc0-65cec94afd68,51,Female,Basic,8.99,6.21,40,South America,TV,Debit Card,5,0.15,Sci-Fi,1,1,0.9742395755701689,High Risk,Win Back Inactive
+3d90379c-6a89-4764-803b-b958c1a4e37a,24,Female,Premium,17.99,0.65,34,Africa,Mobile,Gift Card,4,0.02,Drama,1,1,0.974052107302174,High Risk,Win Back Inactive
+74c58c56-4bbd-4e7c-8ff9-1853e03f0e7b,51,Other,Basic,8.99,8.34,33,Europe,TV,Credit Card,1,0.25,Documentary,1,1,0.9739948402262881,High Risk,Win Back Inactive
+ed940bf8-aee8-4084-aea0-c94146d3a17c,59,Male,Standard,13.99,1.86,40,South America,Laptop,Crypto,5,0.05,Drama,1,1,0.9739793493138998,High Risk,Win Back Inactive
+d667d8ed-686c-4d78-b93e-ad2bab070d4a,46,Female,Basic,8.99,5.62,58,Europe,Mobile,PayPal,4,0.1,Documentary,1,1,0.9736684072116033,High Risk,Win Back Inactive
+5254de27-f444-44d4-bc79-08efebefaa4b,30,Male,Standard,13.99,1.65,58,Europe,Mobile,Crypto,5,0.03,Horror,1,1,0.9736127782108439,High Risk,Win Back Inactive
+ee0c0189-40a6-4894-a64a-5c23b3f6b5a2,48,Male,Standard,13.99,1.93,50,Asia,TV,Gift Card,4,0.04,Drama,1,1,0.9735353990534883,High Risk,Win Back Inactive
+8891ec31-2a81-4f19-a0fb-9f092f2fa076,27,Other,Basic,8.99,6.3,34,Africa,Tablet,Debit Card,4,0.18,Documentary,1,1,0.9734063296839619,High Risk,Win Back Inactive
+c889501d-97d7-4383-9fcf-9c87840e4a43,35,Female,Basic,8.99,1.1,25,North America,Laptop,PayPal,2,0.04,Horror,1,1,0.9733663830329988,High Risk,Re-engage Low Watch Time
+6733fa88-2c22-4289-8f9d-2738f2f223f2,67,Female,Basic,8.99,0.34,16,Europe,Mobile,Gift Card,4,0.02,Horror,1,1,0.9733373980029711,High Risk,Re-engage Low Watch Time
+94226c99-e3c6-44a8-b8df-d66080b5bf30,64,Other,Standard,13.99,3.68,55,South America,Mobile,Crypto,5,0.07,Comedy,1,1,0.9730700803918674,High Risk,Win Back Inactive
+f916f25f-2303-4145-af99-99a0b8e8de5b,22,Male,Basic,8.99,0.75,10,South America,Mobile,Gift Card,3,0.07,Sci-Fi,1,1,0.9729569885125059,High Risk,Re-engage Low Watch Time
+a35353ba-7e5d-4a4e-b1e2-851b4ce3ed64,53,Male,Basic,8.99,6.64,37,Africa,Desktop,Credit Card,5,0.17,Documentary,1,1,0.9729322843809637,High Risk,Win Back Inactive
+a338aff4-ae1a-45ce-bea5-bce572efe8c1,68,Female,Premium,17.99,0.2,32,North America,Laptop,Crypto,1,0.01,Horror,1,1,0.9728210219309851,High Risk,Win Back Inactive
+c0f1eefc-9a25-44f6-bf4b-85d606fd6b15,28,Female,Standard,13.99,0.34,38,North America,Tablet,Gift Card,4,0.01,Horror,1,1,0.9727655349788645,High Risk,Win Back Inactive
+769674ba-19e5-4a6a-b353-facf54fbb6e0,41,Female,Standard,13.99,0.11,41,Africa,Mobile,Credit Card,2,0.0,Action,1,1,0.9727560109264958,High Risk,Win Back Inactive
+f0b6c5bd-f49e-4cd3-90f5-29b4b00a8ab3,25,Female,Standard,13.99,0.09,40,North America,TV,Credit Card,1,0.0,Horror,1,1,0.9725916560002338,High Risk,Win Back Inactive
+e17a955b-011b-402a-9ee1-58470d595818,58,Female,Basic,8.99,0.51,12,Asia,Tablet,PayPal,1,0.04,Action,1,1,0.9724315812643419,High Risk,Re-engage Low Watch Time
+3b9e88b6-d283-419b-9562-d98fe199e04e,39,Other,Premium,17.99,3.98,39,Asia,Tablet,Debit Card,3,0.1,Drama,1,1,0.9723594755599708,High Risk,Win Back Inactive
+825bd557-2be9-4aca-a8d1-eb8a5f1bb037,29,Female,Premium,17.99,0.19,54,Europe,Mobile,PayPal,2,0.0,Drama,1,1,0.9719427522636582,High Risk,Win Back Inactive
+67e5d466-d227-4f8e-9bda-0149ee523745,38,Male,Premium,17.99,2.95,40,Oceania,Laptop,Credit Card,2,0.07,Romance,1,1,0.9718179303991837,High Risk,Win Back Inactive
+b6f391a5-6046-41cd-bd2a-bb08cba87ade,35,Other,Basic,8.99,2.55,26,Oceania,Tablet,Gift Card,2,0.09,Action,1,1,0.9717921114797912,High Risk,Re-engage Low Watch Time
+a1fa1e89-c730-4c7f-b615-5fc51f92abfc,54,Male,Standard,13.99,3.6,39,North America,Mobile,Credit Card,3,0.09,Drama,1,1,0.9716687343323087,High Risk,Win Back Inactive
+bbc959b5-3e2d-486d-afe6-f5604ccd8353,66,Male,Basic,8.99,5.07,38,North America,Mobile,PayPal,5,0.13,Sci-Fi,1,1,0.9716591647672539,High Risk,Win Back Inactive
+df15018a-f407-4f1b-8be5-8cfb76e94670,54,Female,Basic,8.99,6.72,47,Europe,Laptop,Debit Card,4,0.14,Drama,1,1,0.9715894164495676,High Risk,Win Back Inactive
+87bb868a-f169-41ac-ab78-94021cf19a0f,68,Male,Standard,13.99,1.68,33,Africa,Desktop,Credit Card,3,0.05,Drama,1,1,0.9711884475878902,High Risk,Win Back Inactive
+466baf83-d1b8-4d98-9f30-06b1e654f463,54,Female,Basic,8.99,18.84,49,South America,Mobile,Gift Card,1,0.38,Comedy,1,1,0.9709502534855902,High Risk,Win Back Inactive
+745745e9-e354-486c-952d-1cf7bcc6451f,61,Other,Basic,8.99,9.33,51,Oceania,Desktop,Gift Card,4,0.18,Romance,1,1,0.9706217732426816,High Risk,Win Back Inactive
+cc2d1c2c-57dd-420b-8937-6004c639af1d,18,Female,Basic,8.99,7.7,33,North America,Laptop,Crypto,2,0.23,Action,1,1,0.9705372090308808,High Risk,Win Back Inactive
+c9fe7a97-ae87-4846-99cc-dffc804d029e,49,Other,Standard,13.99,2.33,41,Oceania,Desktop,Crypto,4,0.06,Action,1,1,0.970164097718376,High Risk,Win Back Inactive
+463a6397-5c89-4ad4-8d08-f9c6e3081f25,66,Other,Standard,13.99,4.41,48,Asia,Mobile,Gift Card,5,0.09,Sci-Fi,1,1,0.969295707147166,High Risk,Win Back Inactive
+5377482b-2831-42cb-a580-2c8bc3613adc,41,Other,Basic,8.99,5.65,57,Africa,Tablet,Debit Card,5,0.1,Comedy,1,1,0.9692313060691764,High Risk,Win Back Inactive
+c8117a2e-0ad2-4702-98d4-a91b9e29247c,46,Other,Basic,8.99,6.46,35,Europe,Desktop,Gift Card,4,0.18,Sci-Fi,1,1,0.9690966887693757,High Risk,Win Back Inactive
+25fd1786-ff5a-45fc-bb97-0ab5ba25bbd4,69,Female,Basic,8.99,0.64,21,South America,Mobile,PayPal,1,0.03,Drama,1,1,0.9689395218712115,High Risk,Re-engage Low Watch Time
+0ceddb1d-533e-46bc-967f-823b87b432fa,70,Other,Basic,8.99,13.74,44,South America,Mobile,PayPal,3,0.31,Romance,1,1,0.9689310748615614,High Risk,Win Back Inactive
+5f99dc80-0876-4938-9f32-32f8121def1d,54,Male,Basic,8.99,2.28,17,Asia,TV,PayPal,2,0.13,Horror,1,1,0.9689183058112394,High Risk,Re-engage Low Watch Time
+acb287e0-75a9-4889-8eb6-323d15cc7de3,23,Other,Basic,8.99,6.27,52,Europe,Laptop,Gift Card,5,0.12,Sci-Fi,1,1,0.9684227345415981,High Risk,Win Back Inactive
+1fb210c3-6369-4fb9-9abc-f56736df9f47,66,Male,Standard,13.99,3.46,44,Oceania,Tablet,Crypto,4,0.08,Comedy,1,1,0.9682226130845732,High Risk,Win Back Inactive
+4c77f75f-2b1e-4d25-b652-6047d04741d4,70,Male,Basic,8.99,15.81,44,Africa,Tablet,Crypto,1,0.35,Documentary,1,1,0.9678819974269388,High Risk,Win Back Inactive
+1d65e890-ed62-468a-b0cd-153ad70cf2d4,49,Female,Premium,17.99,4.26,40,Africa,Mobile,Credit Card,3,0.1,Comedy,1,1,0.9669393824710258,High Risk,Win Back Inactive
+c0d31bac-2ab7-4f02-a3b0-d9b5a0e1c03d,68,Male,Basic,8.99,3.01,27,Africa,Tablet,Crypto,3,0.11,Drama,1,1,0.9664310342936383,High Risk,Re-engage Low Watch Time
+14ce19c7-ffce-41b5-b4a1-67314cd5974a,35,Female,Basic,8.99,8.85,48,Oceania,Mobile,Crypto,5,0.18,Romance,1,1,0.9663479705241231,High Risk,Win Back Inactive
+fac8f5fe-151e-4991-98a9-7906520b9967,39,Female,Basic,8.99,6.52,54,Asia,TV,PayPal,4,0.12,Romance,1,1,0.966149248988989,High Risk,Win Back Inactive
+c6e04c65-8c8b-4cc2-acbe-772bf63edfff,31,Other,Basic,8.99,7.64,46,North America,TV,Credit Card,4,0.16,Drama,1,1,0.9660566014580227,High Risk,Win Back Inactive
+30f6ab29-5f0d-44e0-b094-8a26164d5303,23,Female,Basic,8.99,6.86,59,Africa,Desktop,Gift Card,4,0.11,Action,1,1,0.965637094539435,High Risk,Win Back Inactive
+3dd65018-61b5-4329-a9cc-bac8c15a6b25,35,Male,Basic,8.99,16.65,46,Asia,TV,Crypto,3,0.35,Romance,1,1,0.9654230918037172,High Risk,Win Back Inactive
+2c9893fa-7934-40a5-8ddb-85f934f5dbe0,68,Other,Standard,13.99,3.68,53,South America,Tablet,Credit Card,3,0.07,Horror,1,1,0.9651639513366693,High Risk,Win Back Inactive
+609e1a47-614a-4c12-b0c7-50c6a27c83bb,48,Other,Basic,8.99,3.04,20,Europe,Mobile,Debit Card,2,0.14,Action,1,1,0.9648003365737978,High Risk,Re-engage Low Watch Time
+071580bb-2081-42f1-82d9-55d269964fed,70,Female,Basic,8.99,3.99,24,Africa,Laptop,Gift Card,1,0.16,Horror,1,1,0.9647954266290947,High Risk,Re-engage Low Watch Time
+10e961c3-40de-45cb-bcf5-76836ec603d7,61,Male,Premium,17.99,1.63,36,Africa,Mobile,Crypto,5,0.04,Drama,1,1,0.9644823221164952,High Risk,Win Back Inactive
+da959d35-24c6-46e5-b52b-a2908e645ed7,68,Other,Basic,8.99,0.12,26,South America,TV,Crypto,2,0.0,Documentary,1,1,0.963917742266167,High Risk,Re-engage Low Watch Time
+ad17bae3-ef4b-43ea-95f6-c26fd969493e,65,Male,Basic,8.99,0.14,16,South America,Mobile,Gift Card,1,0.01,Drama,1,1,0.9636554708816832,High Risk,Re-engage Low Watch Time
+ff0a52b7-4a72-4a00-b2b9-926f67c65a15,52,Male,Basic,8.99,0.12,25,South America,Mobile,Gift Card,4,0.0,Documentary,1,1,0.9636255429534725,High Risk,Re-engage Low Watch Time
+0fbffe99-eba0-4a18-b1f4-42b9e249dfae,33,Female,Premium,17.99,0.06,53,North America,Desktop,PayPal,3,0.0,Horror,1,1,0.963601236713378,High Risk,Win Back Inactive
+47bac1f0-d7bf-4c0b-8489-888e89950661,62,Male,Basic,8.99,0.9,22,South America,Tablet,Debit Card,4,0.04,Romance,1,1,0.9634133912850321,High Risk,Re-engage Low Watch Time
+520074a5-0028-44e4-b17a-199d74134190,34,Female,Standard,13.99,1.28,57,Africa,Tablet,Crypto,4,0.02,Romance,1,1,0.9629359764419118,High Risk,Win Back Inactive
+a17ade56-9ee7-4d41-8efd-659350776e44,28,Male,Basic,8.99,9.85,46,North America,Desktop,Gift Card,5,0.21,Drama,1,1,0.9625350867728908,High Risk,Win Back Inactive
+ed914a01-62e5-4b18-b4ad-1e9a28c3a68c,50,Other,Basic,8.99,2.85,22,Europe,Desktop,Debit Card,1,0.12,Drama,1,1,0.9624790697993194,High Risk,Re-engage Low Watch Time
+724493ea-fdfc-4cb1-914c-4f157f8803a8,41,Other,Basic,8.99,1.06,30,Asia,Tablet,Debit Card,4,0.03,Horror,1,1,0.9618544040032967,High Risk,Win Back Inactive
+b253557e-7e9f-42e7-a964-08409512972c,52,Female,Basic,8.99,1.59,29,South America,TV,PayPal,3,0.05,Action,1,1,0.9606715297595566,High Risk,Re-engage Low Watch Time
+90acaef3-45c4-49e4-bd9f-1faf1b350e71,44,Female,Basic,8.99,9.89,39,Asia,Mobile,Gift Card,4,0.25,Sci-Fi,1,1,0.9601839322924748,High Risk,Win Back Inactive
+b8ca4f83-91e4-4913-bb2a-7af18b9df8a5,57,Other,Basic,8.99,9.88,44,Europe,Mobile,Debit Card,3,0.22,Action,1,1,0.959627716114544,High Risk,Win Back Inactive
+b9802ea9-5c98-4d4a-a77c-6de878d22ea4,34,Female,Premium,17.99,4.59,31,Oceania,Desktop,Gift Card,2,0.14,Sci-Fi,1,1,0.9585814905117479,High Risk,Win Back Inactive
+2a059484-209d-4e60-8329-4344aac42bbb,26,Female,Basic,8.99,11.07,54,Europe,Laptop,Credit Card,4,0.2,Drama,1,1,0.9582570003499069,High Risk,Win Back Inactive
+99700d41-55b7-4d78-acd3-86a1060d880c,53,Female,Basic,8.99,0.19,25,North America,Laptop,PayPal,4,0.01,Romance,1,1,0.9572842726896895,High Risk,Re-engage Low Watch Time
+a1d6a50d-973f-4e43-a3c0-ce5acf4b09ec,33,Female,Basic,8.99,3.05,28,Africa,Laptop,PayPal,5,0.11,Romance,1,1,0.957058130499133,High Risk,Re-engage Low Watch Time
+28da3fe8-e182-4b9e-874c-0ac4c7cdf9cd,56,Male,Basic,8.99,10.45,38,Europe,Tablet,PayPal,4,0.27,Sci-Fi,1,1,0.9568623369365618,High Risk,Win Back Inactive
+f33fab0f-cdc4-4f27-927b-71b8540f1645,63,Female,Basic,8.99,1.84,15,South America,Desktop,Debit Card,3,0.12,Action,1,1,0.9562037443549681,High Risk,Re-engage Low Watch Time
+207f99b4-fa1e-4ed8-ad8e-7fb58d76e1aa,26,Other,Basic,8.99,9.97,37,North America,TV,Credit Card,1,0.26,Drama,1,1,0.9554886518603354,High Risk,Win Back Inactive
+2dd53c77-3646-42b0-825e-69f598e0dc00,64,Female,Basic,8.99,1.74,20,Europe,Laptop,Debit Card,5,0.08,Action,1,1,0.954726654272884,High Risk,Re-engage Low Watch Time
+fa307a7f-4a55-4e3a-a385-0de816f61de8,37,Other,Basic,8.99,7.72,31,South America,TV,Crypto,5,0.24,Comedy,1,1,0.9546644169710244,High Risk,Win Back Inactive
+e84d1748-a4af-4405-b3ae-53d2ca64cd15,20,Other,Standard,13.99,5.46,59,South America,Mobile,Gift Card,2,0.09,Romance,1,1,0.9534570775968225,High Risk,Win Back Inactive
+0b9e8972-a536-4e1c-8f0d-62e22d801f63,51,Female,Basic,8.99,4.74,27,Africa,Tablet,PayPal,3,0.17,Drama,1,1,0.9534113262635918,High Risk,Re-engage Low Watch Time
+615e7406-59c1-43a1-a7c2-21eebf7b480b,31,Male,Basic,8.99,4.58,26,North America,Desktop,PayPal,2,0.17,Action,1,1,0.9532855031368878,High Risk,Re-engage Low Watch Time
+9490f2fb-6881-415d-a9c2-55855ad016fc,68,Female,Basic,8.99,15.56,53,Asia,Mobile,PayPal,5,0.29,Horror,1,1,0.9530195247274185,High Risk,Win Back Inactive
+101b4ce6-b2f8-41ab-b6f4-2a3ed4dba3eb,36,Female,Basic,8.99,0.05,25,Europe,Desktop,Debit Card,4,0.0,Action,1,1,0.9517560193475013,High Risk,Re-engage Low Watch Time
+bc17d830-baf7-4d14-b51e-b18ee693e4b9,46,Male,Basic,8.99,14.86,47,South America,TV,PayPal,4,0.31,Romance,1,1,0.9516539254842548,High Risk,Win Back Inactive
+bc11510c-f213-4766-a2c6-904ce8c1512e,63,Male,Basic,8.99,1.3,20,Africa,Laptop,Crypto,5,0.06,Horror,1,1,0.9514859726153959,High Risk,Re-engage Low Watch Time
+16bb271f-9990-42ef-a49e-5563fb1d11b9,30,Male,Basic,8.99,0.39,4,Africa,Mobile,Credit Card,2,0.08,Comedy,1,1,0.9513347208902797,High Risk,Re-engage Low Watch Time
+aad6f51a-1c6f-46b7-aa7b-768352ed8d1c,57,Other,Basic,8.99,2.08,14,North America,Mobile,Credit Card,5,0.14,Action,1,1,0.9508674275518374,High Risk,Re-engage Low Watch Time
+46e95e2c-14c7-45ef-a0a8-b5f76f9e5d75,58,Female,Basic,8.99,3.57,20,North America,Laptop,Gift Card,2,0.17,Documentary,1,1,0.9507451988987411,High Risk,Re-engage Low Watch Time
+b2ec2304-01bd-4336-8a61-f0b0abbba0db,70,Male,Basic,8.99,2.22,12,Asia,Laptop,PayPal,3,0.17,Romance,1,1,0.9502594436527506,High Risk,Re-engage Low Watch Time
+a70da997-2a45-4bb6-bb24-e40964941eff,55,Female,Standard,13.99,3.68,35,North America,Laptop,Crypto,5,0.1,Horror,1,1,0.9496727925139019,High Risk,Win Back Inactive
+4297d7f1-545a-486b-8473-214ebfa4741a,38,Other,Basic,8.99,10.9,45,South America,Tablet,Credit Card,4,0.24,Sci-Fi,1,1,0.9491406444068095,High Risk,Win Back Inactive
+559d5073-6ed9-4e7a-ab5c-4cabe918406b,26,Male,Premium,17.99,6.15,42,South America,Mobile,Gift Card,2,0.14,Drama,1,1,0.9467131063218597,High Risk,Win Back Inactive
+259e4b86-1544-4c6b-a093-d429692cdf4d,54,Male,Premium,17.99,6.26,51,South America,Desktop,Gift Card,3,0.12,Horror,1,1,0.9462351253901597,High Risk,Win Back Inactive
+f1e8f248-727d-47f5-92da-d6f7610cfc5b,55,Female,Premium,17.99,1.66,54,Oceania,TV,PayPal,4,0.03,Drama,1,1,0.9454657259481207,High Risk,Win Back Inactive
+b76c94bc-af32-4a71-ae69-9a2c713cb696,40,Female,Standard,13.99,4.26,49,Europe,TV,Debit Card,4,0.09,Documentary,1,1,0.945462105343415,High Risk,Win Back Inactive
+10b310c8-dca5-4bbc-a54e-696beba345f2,19,Male,Standard,13.99,6.08,44,Africa,Mobile,Crypto,1,0.14,Drama,1,1,0.9444606962671758,High Risk,Win Back Inactive
+330da1e1-f14f-48b1-a950-169e4c02303d,19,Male,Basic,8.99,0.22,21,Oceania,Mobile,Debit Card,4,0.01,Drama,1,1,0.9424409610963377,High Risk,Re-engage Low Watch Time
+856b5e64-f982-4156-adb9-f005d6c56ee2,56,Male,Basic,8.99,9.9,41,North America,Laptop,PayPal,5,0.24,Drama,1,1,0.941641571993515,High Risk,Win Back Inactive
+276c1104-d5fd-4930-8d5d-35956891c4fb,68,Female,Basic,8.99,0.27,4,Oceania,Tablet,Crypto,2,0.05,Horror,1,1,0.9409480494151571,High Risk,Re-engage Low Watch Time
+ff06eb31-09ff-48f4-821a-632b3d504124,55,Male,Premium,17.99,0.87,48,Asia,Tablet,Debit Card,4,0.02,Action,1,1,0.9395238243470078,High Risk,Win Back Inactive
+023674fd-9b81-45e5-8f9d-f8733d7d65d8,47,Other,Standard,13.99,2.92,56,South America,Mobile,Debit Card,5,0.05,Drama,1,1,0.9388057755908583,High Risk,Win Back Inactive
+44ae8a3c-93f0-4ffa-80ab-a04b49d288ce,31,Other,Basic,8.99,2.82,19,Africa,Laptop,Debit Card,4,0.14,Sci-Fi,1,1,0.938407407448646,High Risk,Re-engage Low Watch Time
+e0cdb351-f217-4c9b-8462-56cd11d35000,62,Female,Basic,8.99,9.41,31,Asia,TV,Credit Card,1,0.29,Drama,1,1,0.9381006455422206,High Risk,Win Back Inactive
+87d5811f-29bd-480a-b53e-8b2775331cfe,69,Female,Basic,8.99,9.95,34,Africa,Laptop,Crypto,4,0.28,Documentary,1,1,0.9380495125611539,High Risk,Win Back Inactive
+6b1bf8c4-e894-4ba9-9fad-7497ef253b7f,39,Other,Standard,13.99,6.67,49,Oceania,Desktop,Crypto,1,0.13,Documentary,1,1,0.9375760300595711,High Risk,Win Back Inactive
+90e5aae2-d9c9-4271-afb7-5e4b799ddaa6,70,Female,Basic,8.99,13.01,32,Asia,TV,Crypto,2,0.39,Comedy,1,1,0.9370576860224898,High Risk,Win Back Inactive
+49d28e48-9b37-4e3d-b921-06b3c1ff01f3,62,Other,Basic,8.99,18.42,45,North America,Desktop,Debit Card,3,0.4,Documentary,1,1,0.9361177541920975,High Risk,Win Back Inactive
+5cd4bc7f-42fe-4ca5-8903-f154b5473974,65,Other,Basic,8.99,0.39,3,Oceania,Desktop,PayPal,2,0.1,Action,1,1,0.9350038943237301,High Risk,Re-engage Low Watch Time
+35cdcfe1-c48a-43b6-8533-8f70aa35c713,38,Male,Standard,13.99,6.77,49,Europe,Mobile,Gift Card,3,0.14,Romance,1,1,0.9342942095532561,High Risk,Win Back Inactive
+391f7245-b2ef-4328-b1f0-47135a7252ce,42,Female,Premium,17.99,6.45,52,Europe,Tablet,Gift Card,1,0.12,Documentary,1,1,0.9338450857142455,High Risk,Win Back Inactive
+7492f32f-8c97-4a80-81ad-78749329c8f3,29,Female,Standard,13.99,1.12,60,Asia,Desktop,PayPal,5,0.02,Horror,1,1,0.9335489925913545,High Risk,Win Back Inactive
+3b6ad87b-8320-46b3-8cd0-ba38c3def845,63,Other,Standard,13.99,1.77,56,North America,Mobile,Debit Card,5,0.03,Horror,1,1,0.933484003589092,High Risk,Win Back Inactive
+bb097e87-3e4e-40ad-b791-cd342f7ad67b,56,Female,Basic,8.99,2.15,12,South America,Laptop,PayPal,5,0.17,Drama,1,1,0.933282407365722,High Risk,Re-engage Low Watch Time
+84080a5b-af89-4c17-b1f8-6859842d4e5b,68,Female,Basic,8.99,15.85,38,South America,TV,Crypto,2,0.41,Horror,1,1,0.9327301463128473,High Risk,Win Back Inactive
+5fc305d7-0598-4114-bd7d-e523aa1befc9,19,Female,Standard,13.99,6.51,51,Asia,Tablet,Crypto,1,0.13,Comedy,1,1,0.9320636545111891,High Risk,Win Back Inactive
+dbdab0cd-577e-49b5-b94e-4c5d8162c4f5,66,Male,Standard,13.99,7.95,47,Asia,Desktop,Gift Card,2,0.17,Documentary,1,1,0.9320250207681475,High Risk,Win Back Inactive
+6a53dd10-b7e8-44f2-8f4a-56015f9a5c61,69,Male,Basic,8.99,4.88,29,South America,Desktop,PayPal,1,0.16,Comedy,1,1,0.9317715871639976,High Risk,Re-engage Low Watch Time
+6b8c4ccd-8bee-4022-94e8-b5f5a0d5bb5f,64,Other,Standard,13.99,1.09,37,South America,Laptop,Credit Card,5,0.03,Documentary,1,1,0.9282004427204933,High Risk,Win Back Inactive
+4d84f911-ed8d-42bd-a583-924e3b9dafd8,69,Female,Standard,13.99,4.56,37,South America,TV,PayPal,2,0.12,Drama,1,1,0.92819544811697,High Risk,Win Back Inactive
+0d5125bb-9a77-46fd-a008-e12965c68f6e,46,Other,Basic,8.99,19.72,47,Oceania,Desktop,Credit Card,1,0.41,Horror,1,1,0.9281383748959322,High Risk,Win Back Inactive
+ceae0c44-3af1-464c-98de-82c6c0a19ae2,35,Other,Premium,17.99,3.63,57,Europe,Laptop,Credit Card,5,0.06,Sci-Fi,1,1,0.9281217818028712,High Risk,Win Back Inactive
+aae4b13b-2247-4c8b-bdfd-f94dc5ac45e9,48,Male,Premium,17.99,7.86,40,Oceania,Desktop,Crypto,3,0.19,Horror,1,1,0.9280338303946098,High Risk,Win Back Inactive
+af17ffdc-f27a-4159-9c8d-addd1bfb0979,67,Other,Standard,13.99,2.79,53,Europe,Laptop,PayPal,4,0.05,Documentary,1,1,0.9278639073482883,High Risk,Win Back Inactive
+a8eeb6ff-e4e6-4fa6-b4dd-2147d66e5234,62,Other,Premium,17.99,3.8,58,Africa,Desktop,Debit Card,4,0.06,Comedy,1,1,0.9276822818941592,High Risk,Win Back Inactive
+f337bc34-f6bf-4cf4-a559-4b79ae8ec658,49,Female,Premium,17.99,2.74,46,Asia,TV,Credit Card,5,0.06,Horror,1,1,0.9276650299080802,High Risk,Win Back Inactive
+629cdfb3-3b30-4a6d-8112-8a323da83e34,33,Male,Standard,13.99,6.6,55,Europe,Desktop,Gift Card,2,0.12,Documentary,1,1,0.926282523949041,High Risk,Win Back Inactive
+57e85db6-af70-499c-9d7d-c89dcc29a52d,55,Male,Standard,13.99,0.53,32,Asia,Mobile,Credit Card,5,0.02,Drama,1,1,0.9260244977501877,High Risk,Win Back Inactive
+3f1a1195-8bb2-439e-8b0b-09b02dacda0d,30,Female,Standard,13.99,8.01,40,Asia,Laptop,Crypto,2,0.2,Romance,1,1,0.925880967394728,High Risk,Win Back Inactive
+900f7a72-5fd2-448b-b8fa-a24862c7766f,32,Male,Standard,13.99,8.26,39,Asia,Laptop,Gift Card,1,0.21,Drama,1,1,0.9204425874487981,High Risk,Win Back Inactive
+15dd5aab-02a9-4353-b946-129f72a1560b,63,Other,Standard,13.99,1.97,21,Asia,Mobile,Crypto,2,0.09,Documentary,1,1,0.9200934886175491,High Risk,Re-engage Low Watch Time
+5e38612f-0499-48d1-9b5c-77f3ac880488,25,Male,Standard,13.99,7.12,33,South America,Laptop,Crypto,2,0.21,Documentary,1,1,0.9196744146983992,High Risk,Win Back Inactive
+31673a23-132a-46a7-b029-975ac1465c50,48,Male,Premium,17.99,4.15,53,Africa,Laptop,Credit Card,4,0.08,Documentary,1,1,0.9195670081293799,High Risk,Win Back Inactive
+35ccb42a-5b8f-4a56-b979-56ef4df94413,47,Male,Standard,13.99,0.18,50,Africa,Desktop,PayPal,4,0.0,Horror,1,1,0.918973635879369,High Risk,Win Back Inactive
+4ca1ccbe-5e66-4bdc-b1d4-282060b755ed,67,Female,Premium,17.99,2.34,54,South America,Mobile,Credit Card,4,0.04,Documentary,1,1,0.918766568399078,High Risk,Win Back Inactive
+e95ba0a7-3085-4358-9fac-b404fdb198b3,55,Other,Premium,17.99,0.44,27,Oceania,TV,Crypto,3,0.02,Drama,1,1,0.9180337676238799,High Risk,Re-engage Low Watch Time
+b312c59e-92cd-4b0a-9baa-d6477c72a8a5,23,Female,Basic,8.99,4.27,23,North America,TV,Debit Card,1,0.18,Sci-Fi,1,1,0.9155846099462711,High Risk,Re-engage Low Watch Time
+d1593b1d-ef59-4d4a-a169-5ff338b8baef,60,Male,Standard,13.99,3.01,30,Asia,Desktop,Gift Card,3,0.1,Documentary,1,1,0.9149332999157014,High Risk,Win Back Inactive
+d0478dc6-40b3-4217-b23b-1e5d368d99e3,63,Male,Standard,13.99,2.31,29,Oceania,Laptop,Gift Card,2,0.08,Romance,1,1,0.9134001342508342,High Risk,Re-engage Low Watch Time
+c43449fd-4ad5-429d-89c4-74d268dcb6bc,67,Female,Basic,8.99,19.58,44,Europe,Tablet,Debit Card,3,0.44,Romance,1,1,0.9126878165438089,High Risk,Win Back Inactive
+2f55007a-9682-4109-8431-2fa060e85673,18,Female,Standard,13.99,0.25,37,Africa,Laptop,Debit Card,5,0.01,Sci-Fi,1,1,0.9126153841121591,High Risk,Win Back Inactive
+c4eb2f57-2a9b-405b-b686-e34aa4c1ba65,70,Other,Premium,17.99,8.6,37,Africa,Desktop,Crypto,3,0.23,Documentary,1,1,0.9106468493105088,High Risk,Win Back Inactive
+5de098c2-fa28-45bf-ae9f-f31dbaa387c0,29,Other,Premium,17.99,4.46,42,Asia,Tablet,PayPal,4,0.1,Comedy,1,1,0.9103525298677687,High Risk,Win Back Inactive
+1bc58c87-ff12-4ead-995a-c2c35062e450,32,Female,Standard,13.99,4.69,48,South America,Laptop,Credit Card,4,0.1,Sci-Fi,1,1,0.9102313498099838,High Risk,Win Back Inactive
+14b07c0b-a32b-4f96-a236-6992f512fd8e,33,Other,Premium,17.99,1.81,20,North America,Tablet,Crypto,2,0.09,Comedy,1,1,0.9097323291914191,High Risk,Re-engage Low Watch Time
+77cf8860-f7d9-4320-a1eb-c06c6b3941db,35,Male,Premium,17.99,1.95,52,Africa,Tablet,Credit Card,5,0.04,Drama,1,1,0.9096421724286108,High Risk,Win Back Inactive
+c46da64b-c643-414b-9c74-f9c9cfd93905,21,Other,Standard,13.99,2.51,19,South America,Mobile,Crypto,2,0.13,Drama,1,1,0.9094613792696653,High Risk,Re-engage Low Watch Time
+4e50ad61-f951-418f-88ca-cbdaf2b57e8d,63,Female,Basic,8.99,1.07,5,South America,TV,Credit Card,4,0.18,Action,1,1,0.9083952395385136,High Risk,Re-engage Low Watch Time
+376a8158-1184-4952-ad53-914e27bc8d2e,21,Female,Premium,17.99,4.07,56,South America,Desktop,Credit Card,4,0.07,Action,1,1,0.9082115854093701,High Risk,Win Back Inactive
+2619177e-ff09-4d89-b00b-f61e7dad8bf9,44,Male,Premium,17.99,1.22,24,Oceania,Tablet,Crypto,3,0.05,Horror,1,1,0.906756554968946,High Risk,Re-engage Low Watch Time
+a9d14534-5bca-41dd-8d02-0d92570cb764,35,Male,Standard,13.99,4.13,32,Africa,TV,Credit Card,1,0.13,Horror,1,1,0.9045340740815289,High Risk,Win Back Inactive
+e9bacc45-dde8-4b72-bfbc-2466280d785a,53,Male,Premium,17.99,0.77,21,South America,Laptop,Crypto,3,0.04,Sci-Fi,1,1,0.8991903314561414,High Risk,Re-engage Low Watch Time
+5736a841-06be-4e91-a475-fdeae4dbb161,49,Male,Standard,13.99,4.67,48,North America,Laptop,Debit Card,5,0.1,Horror,1,1,0.8968961229818586,High Risk,Win Back Inactive
+ca6e759e-e5b0-4f69-b548-2acfba9ef338,41,Male,Premium,17.99,10.81,44,South America,Tablet,Gift Card,3,0.24,Documentary,1,1,0.8965095681282995,High Risk,Win Back Inactive
+e19f60cc-7e74-458f-9e37-12511d3a3506,67,Female,Premium,17.99,0.61,12,Oceania,Tablet,Crypto,3,0.05,Documentary,1,1,0.8942807794803455,High Risk,Re-engage Low Watch Time
+671165ba-f196-4285-925f-75d561220775,24,Male,Premium,17.99,6.01,58,North America,Tablet,Debit Card,1,0.1,Romance,1,1,0.89426950500867,High Risk,Win Back Inactive
+5df7e878-2b99-4215-813e-76ddff65867e,19,Female,Standard,13.99,2.38,19,Europe,Desktop,Crypto,3,0.12,Action,1,1,0.8939544205977304,High Risk,Re-engage Low Watch Time
+c069c37d-b02d-4509-b039-bf16d73d22fb,18,Male,Standard,13.99,0.64,18,Asia,TV,Crypto,2,0.03,Horror,1,1,0.8938199273802577,High Risk,Re-engage Low Watch Time
+a9284906-2f35-4b1c-85bb-7eb60338cc2d,36,Male,Standard,13.99,8.87,36,North America,Desktop,Gift Card,2,0.24,Romance,1,1,0.8919984156169906,High Risk,Win Back Inactive
+1829ac6c-bf86-4add-93af-ef3534a06c28,30,Male,Standard,13.99,9.7,37,North America,Mobile,Crypto,1,0.26,Action,1,1,0.891436918679998,High Risk,Win Back Inactive
+9ab81da7-21f5-4a76-9bd4-10a78fe5ae0a,53,Male,Premium,17.99,16.53,43,Europe,Mobile,Gift Card,1,0.38,Romance,1,1,0.8914267589158352,High Risk,Win Back Inactive
+2430b31a-ab1d-4aeb-9d8f-5b5bb2427ff5,60,Female,Premium,17.99,2.09,14,North America,Laptop,Gift Card,2,0.14,Comedy,1,1,0.8895332130218279,High Risk,Re-engage Low Watch Time
+9e153932-2f33-4f32-ac2d-279f5c5ffaab,37,Female,Premium,17.99,7.53,48,Asia,Desktop,PayPal,3,0.15,Documentary,1,1,0.8890495389364226,High Risk,Win Back Inactive
+0afc4baf-0aa5-44c3-b6be-949008d9c2da,47,Other,Standard,13.99,13.83,54,Africa,Mobile,Gift Card,3,0.25,Documentary,1,1,0.8874120402404693,High Risk,Win Back Inactive
+11c276ad-6bf4-4e1e-bd5c-ae39ed4bad89,66,Male,Premium,17.99,5.73,58,Europe,Desktop,PayPal,1,0.1,Action,1,1,0.8874069771643509,High Risk,Win Back Inactive
+eab99641-f7e9-4cba-a913-e1880044e640,22,Female,Standard,13.99,0.48,24,North America,Desktop,Gift Card,2,0.02,Romance,1,1,0.8870348136715276,High Risk,Re-engage Low Watch Time
+5c49d257-0de5-4601-a2ec-ff29a72735ab,43,Female,Premium,17.99,12.37,37,Europe,Desktop,Crypto,3,0.33,Romance,1,1,0.8853027132978595,High Risk,Win Back Inactive
+81ff625a-3b7d-4d84-8a40-c0e42881eab7,44,Male,Basic,8.99,19.82,43,South America,Mobile,PayPal,2,0.45,Comedy,1,1,0.88425366853841,High Risk,Win Back Inactive
+4a019852-cd31-4f1a-ab65-fce6b1b4fa01,62,Female,Premium,17.99,6.03,49,Oceania,TV,Debit Card,2,0.12,Horror,1,1,0.8834690220254392,High Risk,Win Back Inactive
+33563d42-7f51-405c-8328-8cd881128656,54,Male,Basic,8.99,3.13,16,Oceania,TV,Credit Card,5,0.18,Drama,1,1,0.8822828867438504,High Risk,Re-engage Low Watch Time
+2af0fa44-a495-4ed8-b750-e29f5ae68251,24,Female,Standard,13.99,5.56,32,Europe,Laptop,PayPal,1,0.17,Drama,1,1,0.879121509923955,High Risk,Win Back Inactive
+bf6a8e72-8dbc-4f8c-8e6e-77f94994af64,24,Male,Standard,13.99,8.96,34,South America,Mobile,Gift Card,2,0.26,Comedy,1,1,0.8778976391617697,High Risk,Win Back Inactive
+287ec5fe-48e9-4538-b9c9-71bf23aa8781,57,Male,Standard,13.99,12.67,50,North America,TV,Crypto,2,0.25,Documentary,1,1,0.8751968256158632,High Risk,Win Back Inactive
+320b668c-0d42-45da-b0ce-12503b250c96,64,Male,Standard,13.99,1.29,9,Africa,Mobile,Crypto,1,0.13,Sci-Fi,1,1,0.8751364471348125,High Risk,Re-engage Low Watch Time
+dbe93e6b-0841-4e21-8651-6e8ecac62efc,46,Male,Standard,13.99,8.79,54,South America,Mobile,PayPal,1,0.16,Romance,1,1,0.8749998314558506,High Risk,Win Back Inactive
+08bcd88f-9bc2-4463-bc5f-498b5a3e6c27,20,Other,Standard,13.99,5.41,38,North America,TV,PayPal,1,0.14,Sci-Fi,1,1,0.87481345667068,High Risk,Win Back Inactive
+a1f99ca8-0b8f-4c59-a52e-4eb2ea8d4bf6,49,Other,Standard,13.99,2.86,30,Europe,Tablet,Credit Card,3,0.09,Drama,1,1,0.8738278038805299,High Risk,Win Back Inactive
+6517898e-2c6a-4f44-a25a-33272efdc08d,51,Female,Premium,17.99,8.32,48,Europe,TV,Credit Card,2,0.17,Horror,1,1,0.8726886659245491,High Risk,Win Back Inactive
+fb5cc622-695b-4447-b65e-173ed40be7fd,23,Male,Premium,17.99,12.6,54,Asia,TV,Crypto,1,0.23,Documentary,1,1,0.8687593412843418,High Risk,Win Back Inactive
+a76291ab-bfb6-4bb9-8467-2c5c89ce0c01,31,Other,Premium,17.99,8.18,43,Europe,Desktop,PayPal,1,0.19,Horror,1,1,0.8677189767753588,High Risk,Win Back Inactive
+bb486791-58b7-43c1-a079-b5388eb2615a,19,Male,Standard,13.99,15.85,43,Oceania,Desktop,Gift Card,2,0.36,Comedy,1,1,0.8618542580391386,High Risk,Win Back Inactive
+00e9f683-9379-4296-a5a6-76bc2c9dd117,58,Female,Premium,17.99,0.45,7,Oceania,TV,Crypto,1,0.06,Sci-Fi,1,1,0.8614232601753298,High Risk,Re-engage Low Watch Time
+8329446c-9c38-459b-b296-59f5f19f2a51,37,Male,Basic,8.99,4.98,30,South America,Mobile,Gift Card,4,0.16,Romance,1,1,0.8595795539127633,High Risk,Win Back Inactive
+37efe8d4-f30b-4839-8707-67cfb77cc1ff,62,Female,Basic,8.99,1.8,4,South America,Mobile,Crypto,5,0.36,Drama,1,1,0.8589470761733708,High Risk,Re-engage Low Watch Time
+654260fa-24d7-4f03-b32c-f5ab977a1031,21,Female,Premium,17.99,7.72,51,Oceania,TV,Debit Card,3,0.15,Romance,1,1,0.8587915735462767,High Risk,Win Back Inactive
+4b3a58cf-f92e-40ab-bfe3-9203f6b813ea,53,Female,Standard,13.99,2.23,22,Europe,Desktop,Credit Card,2,0.1,Romance,1,1,0.8567978382906698,High Risk,Re-engage Low Watch Time
+436e88e3-310d-4e5c-993d-2c984387b918,65,Other,Basic,8.99,1.68,3,Asia,TV,PayPal,1,0.42,Sci-Fi,1,1,0.8555369509485057,High Risk,Re-engage Low Watch Time
+67cf164d-d961-4310-8646-8b5792f20876,70,Other,Premium,17.99,8.68,41,South America,Desktop,PayPal,1,0.21,Horror,1,1,0.8546194444246603,High Risk,Win Back Inactive
+2919e65b-e387-49f7-8afa-26b4cb2f5d35,25,Female,Standard,13.99,9.64,54,Oceania,TV,Credit Card,3,0.18,Drama,1,1,0.8541103401463207,High Risk,Win Back Inactive
+c4c39eed-21ee-4f06-be68-f9f4899be76b,35,Other,Basic,8.99,2.19,5,Oceania,Laptop,Gift Card,5,0.36,Action,1,1,0.852503043864245,High Risk,Re-engage Low Watch Time
+0c65fd72-9e3b-4033-99ed-4397ccf9346f,40,Other,Basic,8.99,4.68,25,Africa,Tablet,PayPal,5,0.18,Action,1,1,0.8524303972512205,High Risk,Re-engage Low Watch Time
+200744fd-339d-46b7-bdd7-75f6311d10c2,30,Female,Standard,13.99,6.23,49,Europe,TV,Debit Card,3,0.12,Comedy,1,1,0.8492185908966974,High Risk,Win Back Inactive
+73a4b76c-1e0c-4d55-9ef4-cfce29a688ba,45,Male,Premium,17.99,17.85,57,Europe,Desktop,Crypto,3,0.31,Sci-Fi,1,1,0.8492110587534027,High Risk,Win Back Inactive
+7767a55d-bc06-4edf-89a6-0235f5728dd5,19,Male,Standard,13.99,0.95,22,Asia,Laptop,Credit Card,2,0.04,Documentary,1,1,0.8465613253893787,High Risk,Re-engage Low Watch Time
+efc777d9-e7a2-404c-9626-3b30b333dcce,40,Other,Standard,13.99,7.48,54,Africa,Tablet,Debit Card,1,0.14,Comedy,1,1,0.8465545974980998,High Risk,Win Back Inactive
+334fbf6b-0681-49de-ae3a-c08da907fda0,18,Female,Basic,8.99,3.19,16,North America,Laptop,Gift Card,4,0.19,Action,1,1,0.844241453668671,High Risk,Re-engage Low Watch Time
+025f67d8-5ff0-4e79-9463-ec829fec6755,63,Other,Basic,8.99,1.25,3,Asia,Tablet,Debit Card,5,0.31,Comedy,1,1,0.8413061219487505,High Risk,Re-engage Low Watch Time
+39c2f74d-e634-4686-b4a4-7f3617f6db10,28,Female,Premium,17.99,0.12,9,Europe,TV,Crypto,2,0.01,Romance,1,1,0.8396324728335965,High Risk,Re-engage Low Watch Time
+f30ef5c3-be17-4886-9bcf-a859532fbfef,27,Other,Basic,8.99,2.58,6,South America,Tablet,Debit Card,3,0.37,Romance,1,1,0.8377209516272706,High Risk,Re-engage Low Watch Time
+337d7132-8164-46fe-9481-78329007a7af,27,Male,Standard,13.99,0.43,27,Europe,Laptop,PayPal,2,0.02,Sci-Fi,1,1,0.8371621726346113,High Risk,Re-engage Low Watch Time
+9b97bbce-cee3-4f9f-929a-91a55540665a,69,Female,Standard,13.99,10.33,42,Europe,Tablet,Debit Card,3,0.24,Action,1,1,0.8358144809077491,High Risk,Win Back Inactive
+6232c7ae-f01e-4ac3-845c-0f5a3f151e40,61,Male,Standard,13.99,4.14,30,Asia,Laptop,Credit Card,2,0.13,Drama,1,1,0.8335973407929959,High Risk,Win Back Inactive
+a1f04ee3-d220-47e3-aba1-1fcdb769db0a,68,Female,Premium,17.99,8.28,47,Europe,Laptop,Debit Card,1,0.17,Romance,1,1,0.8328688554107281,High Risk,Win Back Inactive
+c07e896d-752f-4841-9fa4-aa8c9ed4acf5,36,Female,Premium,17.99,13.32,45,South America,Mobile,Credit Card,2,0.29,Documentary,1,1,0.8319657325408906,High Risk,Win Back Inactive
+b8c8c57b-903f-448b-88fc-0313c24694b7,24,Other,Standard,13.99,10.72,40,Asia,TV,Debit Card,3,0.26,Comedy,1,1,0.8295006434098362,High Risk,Win Back Inactive
+41c3b640-f804-4274-8b9b-10c9ad380348,56,Female,Standard,13.99,3.8,26,Africa,Desktop,Credit Card,2,0.14,Romance,1,1,0.8291586602868044,High Risk,Re-engage Low Watch Time
+ff1360fb-906c-459e-b73c-dbe79d6c0bba,20,Male,Standard,13.99,13.57,45,Oceania,Mobile,PayPal,1,0.29,Sci-Fi,1,1,0.8289861883254248,High Risk,Win Back Inactive
+cdd7611f-d900-43cf-b218-71d45bca9a13,59,Female,Premium,17.99,0.1,20,North America,Laptop,Crypto,1,0.0,Sci-Fi,1,1,0.828151640571464,High Risk,Re-engage Low Watch Time
+bfbe5804-1dc1-452b-b92b-a483c5eeb76b,67,Other,Premium,17.99,2.51,25,Africa,Tablet,Credit Card,3,0.1,Romance,1,1,0.8277844564846092,High Risk,Re-engage Low Watch Time
+f4db7304-7056-46c8-88dd-0b612ad71ba2,70,Female,Standard,13.99,7.16,40,Europe,Tablet,Debit Card,1,0.17,Comedy,1,1,0.8275711844796473,High Risk,Win Back Inactive
+83ca2b12-f1fd-48b2-886b-c795742478a4,45,Female,Premium,17.99,11.99,54,North America,Desktop,Credit Card,2,0.22,Horror,1,1,0.8251558868371235,High Risk,Win Back Inactive
+c24bf17b-a0f9-429c-9b41-a7b00dcfa39b,62,Other,Premium,17.99,10.02,33,Africa,TV,PayPal,2,0.29,Comedy,1,1,0.825017531687618,High Risk,Win Back Inactive
+3cef2ed3-dfec-427e-ba70-5d08fa92a631,26,Female,Standard,13.99,8.88,42,Africa,Desktop,Debit Card,1,0.21,Documentary,1,1,0.8248483995469451,High Risk,Win Back Inactive
+0e09d94c-15d8-4621-bb91-7439249d7087,67,Male,Standard,13.99,10.29,44,Oceania,Tablet,PayPal,2,0.23,Comedy,1,1,0.8227313470117699,High Risk,Win Back Inactive
+a41dd9ef-0764-4f95-9101-e9d5bb30c03a,54,Female,Standard,13.99,4.28,36,Europe,Laptop,PayPal,4,0.12,Romance,1,1,0.8220685327912597,High Risk,Win Back Inactive
+1f8f36b8-2b12-423c-8d89-7b6421897c37,60,Male,Standard,13.99,15.15,37,Europe,TV,Crypto,2,0.4,Romance,1,1,0.8208936053280239,High Risk,Win Back Inactive
+b63bbb24-3940-4377-bda2-081dc5008511,63,Other,Standard,13.99,11.42,57,Europe,Desktop,Credit Card,1,0.2,Horror,1,1,0.8204531855499431,High Risk,Win Back Inactive
+20610703-f205-4e18-8f71-b06869a773d9,43,Male,Standard,13.99,0.83,13,South America,TV,PayPal,3,0.06,Documentary,1,1,0.820135815253304,High Risk,Re-engage Low Watch Time
+132eb3c0-beb0-4236-8684-bb3e2fc8cec9,55,Female,Standard,13.99,14.39,54,Oceania,TV,Credit Card,3,0.26,Romance,1,1,0.8198472303203621,High Risk,Win Back Inactive
+bb20c584-b8c7-4e09-a487-df50428b49ba,21,Male,Basic,8.99,21.57,47,North America,Mobile,Debit Card,3,0.45,Comedy,1,1,0.8198433668110833,High Risk,Win Back Inactive
+66d3a92b-4c35-46e6-bf15-cb673be2aee2,27,Male,Premium,17.99,2.95,30,South America,Desktop,PayPal,2,0.1,Horror,1,1,0.8195556396949302,High Risk,Win Back Inactive
+b188eb5c-8e85-49e6-be94-ebd9f6c8db61,35,Other,Standard,13.99,8.18,36,South America,Mobile,Debit Card,2,0.22,Romance,1,1,0.8193376084052946,High Risk,Win Back Inactive
+84057a35-72ad-4922-8c79-4bdd241b83c3,69,Female,Premium,17.99,5.48,54,North America,Laptop,Gift Card,5,0.1,Action,1,1,0.8191778167033202,High Risk,Win Back Inactive
+fef2b49b-0991-4aa2-8614-d01832721049,58,Female,Premium,17.99,8.74,49,Africa,Laptop,Debit Card,1,0.17,Romance,1,1,0.818708298269147,High Risk,Win Back Inactive
+06ca1b4c-5275-4cf2-b1e3-44955c49c0aa,31,Other,Standard,13.99,2.44,17,South America,TV,Credit Card,3,0.14,Sci-Fi,1,1,0.8181964701863361,High Risk,Re-engage Low Watch Time
+672a8d38-e6ed-4649-8b8f-e31ceedeea37,52,Male,Premium,17.99,1.81,23,North America,Mobile,Debit Card,3,0.08,Documentary,1,1,0.8171772408578086,High Risk,Re-engage Low Watch Time
+05e332ce-23b3-4687-90ae-3a9a515490ff,39,Other,Premium,17.99,0.33,29,Africa,Laptop,Credit Card,2,0.01,Documentary,1,1,0.8165870321829664,High Risk,Re-engage Low Watch Time
+9b57e510-576f-4fce-87b1-8f4d2b614820,34,Male,Premium,17.99,13.49,51,South America,Tablet,Debit Card,1,0.26,Horror,1,1,0.8155988388571128,High Risk,Win Back Inactive
+8ef7eacb-b757-4433-8663-81f540a1f53f,44,Male,Premium,17.99,0.62,22,Africa,Tablet,PayPal,2,0.03,Documentary,1,1,0.8154695768243582,High Risk,Re-engage Low Watch Time
+450b6e68-026e-4d1b-b9bb-597f2a9b1bdc,35,Other,Premium,17.99,14.46,44,North America,Tablet,Debit Card,1,0.32,Action,1,1,0.8154138522389158,High Risk,Win Back Inactive
+54c05598-365d-4f0a-9053-47c773d60fb0,58,Male,Standard,13.99,4.38,25,Africa,Tablet,Credit Card,1,0.17,Romance,1,1,0.8153767574490652,High Risk,Re-engage Low Watch Time
+7ae87f0b-ec48-4a45-9947-aadbd421a2d8,51,Male,Standard,13.99,8.43,37,South America,Mobile,Debit Card,1,0.22,Documentary,1,1,0.8151780228853361,High Risk,Win Back Inactive
+ab588e4b-6d23-4746-a5d3-2380dd359f2c,38,Other,Basic,8.99,4.55,18,Africa,TV,Credit Card,5,0.24,Drama,1,1,0.8143712146909824,High Risk,Re-engage Low Watch Time
+7e3de2a4-1eda-4822-9414-edf630b56ca0,63,Male,Standard,13.99,3.82,31,Oceania,Tablet,PayPal,4,0.12,Action,1,1,0.8100367834328391,High Risk,Win Back Inactive
+6dde2c86-7593-4d49-aee0-38ae33b01060,69,Male,Standard,13.99,4.86,27,North America,Desktop,Gift Card,3,0.17,Horror,1,1,0.8088956743829344,High Risk,Re-engage Low Watch Time
+c3fc2a8b-b9e3-48b3-9c46-b3a64b62157d,26,Female,Premium,17.99,4.66,38,South America,Laptop,Debit Card,5,0.12,Documentary,1,1,0.8086687167104277,High Risk,Win Back Inactive
+f0c87ced-93a5-4494-a348-fcfcecb24541,19,Male,Premium,17.99,0.36,28,Oceania,Desktop,Credit Card,1,0.01,Comedy,1,1,0.8085572567996979,High Risk,Re-engage Low Watch Time
+7ee9fa15-81b6-4b1b-a841-eec8b03d8b1e,29,Male,Basic,8.99,24.18,59,Africa,Laptop,Credit Card,1,0.4,Documentary,1,1,0.8072981315497867,High Risk,Win Back Inactive
+e3a08f87-a693-47d8-a47e-cf071d5c1d71,58,Female,Premium,17.99,14.52,42,Asia,Desktop,PayPal,1,0.34,Horror,1,1,0.80342711493695,High Risk,Win Back Inactive
+da313250-0337-4225-a411-b5b75ca190d9,40,Other,Premium,17.99,9.64,34,North America,Tablet,Credit Card,1,0.28,Action,1,1,0.8014116162617723,High Risk,Win Back Inactive
+31832db0-5f36-4c75-9226-07c279e0f707,35,Other,Premium,17.99,1.45,12,Africa,Laptop,Credit Card,2,0.11,Documentary,1,1,0.7997905761767846,High Risk,Re-engage Low Watch Time
+fa6410af-b085-4a71-9789-00ccefdeb848,36,Female,Standard,13.99,12.08,60,Europe,Mobile,PayPal,2,0.2,Comedy,1,1,0.7952936333477448,High Risk,Win Back Inactive
+cd3e92be-8dbb-4f0f-a7b7-80be21d85db8,41,Other,Premium,17.99,1.65,9,Europe,Tablet,PayPal,2,0.16,Comedy,1,1,0.7920760341357891,High Risk,Re-engage Low Watch Time
+9cf98ae9-3ca2-4174-a7ca-0fb8969544aa,19,Other,Premium,17.99,13.21,32,Asia,Desktop,Crypto,2,0.4,Action,1,1,0.791763614662239,High Risk,Win Back Inactive
+33bca94a-0b75-4ad7-b4fe-db44cfdd6992,28,Other,Standard,13.99,1.07,9,Africa,Mobile,PayPal,1,0.11,Comedy,1,1,0.7914629812513574,High Risk,Re-engage Low Watch Time
+593f585f-8c2e-4301-8d4f-9a5072b0521a,54,Male,Premium,17.99,12.02,58,Europe,Tablet,Debit Card,3,0.2,Documentary,1,1,0.7903850919488155,High Risk,Win Back Inactive
+304e77f6-80f7-4820-affe-f288fb212762,18,Male,Premium,17.99,12.42,58,North America,Laptop,Debit Card,3,0.21,Horror,1,1,0.7899781067124354,High Risk,Win Back Inactive
+dfa1b990-66dd-4237-afee-721ed2e9aab6,49,Other,Standard,13.99,9.01,31,Europe,Laptop,PayPal,3,0.28,Action,1,1,0.7870649985627325,High Risk,Win Back Inactive
+0c1633dd-ffdf-4a8e-acf3-6b8726513703,55,Female,Premium,17.99,13.7,59,South America,Desktop,PayPal,3,0.23,Action,1,1,0.7862989529401088,High Risk,Win Back Inactive
+658035e4-1ba4-4be1-9ef9-45b5307d06d0,31,Other,Premium,17.99,15.41,44,North America,Desktop,PayPal,2,0.34,Sci-Fi,1,1,0.7811778497982518,High Risk,Win Back Inactive
+5cbb9981-6f2d-424f-af91-af52901b2f54,65,Female,Basic,8.99,4.12,9,South America,Tablet,Credit Card,5,0.41,Romance,1,1,0.7806938589231837,High Risk,Re-engage Low Watch Time
+4ba7f702-5b22-4e31-ac70-272407eb79f8,31,Female,Premium,17.99,0.54,16,North America,Desktop,Credit Card,1,0.03,Sci-Fi,1,1,0.7806520330444195,High Risk,Re-engage Low Watch Time
+baee1593-6034-48d7-8a84-7486c56e1563,50,Female,Premium,17.99,5.41,35,North America,Desktop,Gift Card,4,0.15,Action,1,1,0.7796421415670612,High Risk,Win Back Inactive
+bf48551e-a8e6-4fd9-bb32-3f798ed84680,46,Other,Premium,17.99,1.25,13,Europe,Tablet,Debit Card,3,0.09,Comedy,1,1,0.7768016702052029,High Risk,Re-engage Low Watch Time
+c92450d6-b3fa-47a1-82ac-ebbf6f022eac,37,Male,Basic,8.99,4.84,25,Africa,Laptop,PayPal,5,0.19,Action,1,1,0.7767330850845796,High Risk,Re-engage Low Watch Time
+6c63319f-2d29-4cd8-ae08-7d646783282a,54,Other,Standard,13.99,6.59,40,North America,Desktop,Crypto,4,0.16,Horror,1,1,0.7762518319573194,High Risk,Win Back Inactive
+108167e5-098a-4268-834b-c154d0500827,67,Other,Standard,13.99,15.34,39,North America,Laptop,Credit Card,2,0.38,Horror,1,1,0.7758206953078848,High Risk,Win Back Inactive
+658fa594-c797-41fb-b95f-7e27e0b3dcc8,32,Male,Standard,13.99,1.52,10,Asia,Desktop,PayPal,3,0.14,Action,1,1,0.7745950594806756,High Risk,Re-engage Low Watch Time
+6065d8f7-08e7-421c-ab2c-0f3401c1007e,54,Male,Premium,17.99,4.81,27,North America,TV,Debit Card,3,0.17,Documentary,1,1,0.7739060995544763,High Risk,Re-engage Low Watch Time
+28dd1332-f527-4429-88e4-2c54f09b4578,40,Other,Standard,13.99,12.82,36,Asia,TV,Credit Card,2,0.35,Romance,1,1,0.7719599200067553,High Risk,Win Back Inactive
+5d26a7bf-3240-4197-a94c-369861b65c37,50,Male,Premium,17.99,7.96,51,Oceania,Tablet,Gift Card,5,0.15,Horror,1,1,0.7705635868374118,High Risk,Win Back Inactive
+7829169d-75d6-4f04-bef9-7ae2fc256e33,33,Male,Standard,13.99,5.76,40,Europe,Desktop,Gift Card,5,0.14,Comedy,1,1,0.7642739822288831,High Risk,Win Back Inactive
+7344e8a9-c160-4f84-9215-54be55f8b369,69,Female,Premium,17.99,1.35,8,North America,Mobile,Debit Card,3,0.15,Drama,1,1,0.759288379704901,High Risk,Re-engage Low Watch Time
+f6586998-c5aa-4fc4-86ac-0c0356195134,41,Other,Premium,17.99,2.74,19,Asia,Laptop,Debit Card,3,0.14,Sci-Fi,1,1,0.7584671560090958,High Risk,Re-engage Low Watch Time
+c32bafe7-6744-4901-bf9a-fa83bda82088,39,Other,Standard,13.99,0.75,27,Africa,Laptop,Crypto,4,0.03,Romance,1,1,0.75751649910141,High Risk,Re-engage Low Watch Time
+8e64c096-6cc3-468e-b5bc-63c64e8ea64a,24,Female,Premium,17.99,15.52,33,Europe,TV,Crypto,1,0.46,Romance,1,1,0.7569461926647165,High Risk,Win Back Inactive
+05b8250f-403e-455e-8588-acfd28455970,18,Female,Standard,13.99,6.99,46,Africa,Desktop,Crypto,5,0.15,Comedy,1,1,0.7567730742243807,High Risk,Win Back Inactive
+ce40f5f8-42ee-44e2-b754-bd3a626cf48d,61,Female,Standard,13.99,4.52,21,Europe,Tablet,Crypto,2,0.21,Drama,1,1,0.7567254809913554,High Risk,Re-engage Low Watch Time
+86966fb9-ef7f-481f-a784-e39ac267b56f,22,Female,Standard,13.99,0.63,9,Europe,Tablet,Debit Card,3,0.06,Action,1,1,0.7496929329318058,High Risk,Re-engage Low Watch Time
+ff4bc4b3-d731-4cc8-8b4f-221224581e83,55,Female,Basic,8.99,17.61,35,South America,Desktop,Gift Card,1,0.49,Comedy,1,1,0.7493012397386756,High Risk,Win Back Inactive
+e4995385-d038-45d3-8363-db73a27d7469,19,Male,Standard,13.99,3.45,18,Africa,Tablet,Credit Card,3,0.18,Romance,1,1,0.7474057828920415,High Risk,Re-engage Low Watch Time
+10187a53-e499-45ef-b5b2-0c0d16ffaef7,65,Male,Premium,17.99,0.74,20,Europe,Laptop,Debit Card,3,0.04,Sci-Fi,1,1,0.7471862333614129,High Risk,Re-engage Low Watch Time
+c44dca13-8b31-45ae-8749-b96c8cc7f207,42,Other,Standard,13.99,0.45,15,Africa,Laptop,Gift Card,5,0.03,Romance,1,1,0.7467847981649115,High Risk,Re-engage Low Watch Time
+38769edf-d82f-4be4-98b2-324b1295e6d9,21,Male,Basic,8.99,24.86,54,North America,TV,PayPal,2,0.45,Comedy,1,1,0.74119151212915,High Risk,Win Back Inactive
+dd14a766-3108-4397-9422-525fac071e57,34,Male,Standard,13.99,4.26,22,South America,Laptop,Credit Card,3,0.19,Sci-Fi,1,1,0.7397762059632262,High Risk,Re-engage Low Watch Time
+f6b290df-1d8b-42d8-9aac-5b19f94e441f,69,Female,Standard,13.99,2.78,28,Africa,Tablet,Crypto,5,0.1,Sci-Fi,1,1,0.737776529067832,High Risk,Re-engage Low Watch Time
+a16251fb-f52b-430e-9bb1-272ebfb4a387,41,Other,Basic,8.99,20.26,41,Africa,Laptop,Crypto,1,0.48,Documentary,1,1,0.7342331729046704,High Risk,Win Back Inactive
+e6dd515f-7399-4451-8a24-6e0ffda79f66,67,Other,Standard,13.99,9.09,37,South America,Laptop,Crypto,4,0.24,Horror,1,1,0.7313915462979703,High Risk,Win Back Inactive
+94f9f356-3b73-4a86-95d0-d27829bd0717,23,Other,Premium,17.99,1.43,30,Europe,TV,Gift Card,5,0.05,Sci-Fi,1,1,0.7295493431581351,High Risk,Win Back Inactive
+a213aa66-7585-47f8-b1fa-3bd2bc3a1387,58,Female,Premium,17.99,7.58,40,North America,TV,Gift Card,5,0.18,Romance,1,1,0.7295131983301463,High Risk,Win Back Inactive
+97532dfe-a293-4674-8dc1-1a90ca1e2925,28,Other,Premium,17.99,4.3,21,North America,Laptop,Gift Card,1,0.2,Romance,1,1,0.7249933678174638,High Risk,Re-engage Low Watch Time
+d727f89d-d107-459c-a343-4c7c59015831,30,Female,Standard,13.99,1.21,14,Europe,TV,Crypto,5,0.08,Drama,1,1,0.7221372331154066,High Risk,Re-engage Low Watch Time
+57a8fb5f-c293-4702-ad9e-71cbdb4aa6e8,30,Other,Premium,17.99,12.88,54,Oceania,Desktop,Gift Card,4,0.23,Documentary,1,1,0.7206646991983386,High Risk,Win Back Inactive
+9eec9d5c-6e0e-4796-b55f-75b8b68180b4,65,Female,Standard,13.99,13.88,57,Oceania,Laptop,Crypto,5,0.24,Comedy,1,1,0.7195258349779659,High Risk,Win Back Inactive
+6701c268-e97f-46a1-891b-a5283d199258,54,Male,Standard,13.99,8.56,33,South America,Mobile,Gift Card,4,0.25,Drama,1,1,0.7182400470616662,High Risk,Win Back Inactive
+369b918f-c741-4cd7-8f5a-74eaebb3ba16,21,Female,Standard,13.99,14.17,60,North America,TV,Gift Card,5,0.23,Documentary,1,1,0.715496133309022,High Risk,Win Back Inactive
+5e47d43e-927d-46dc-8828-d13eaab15b4e,35,Male,Basic,8.99,22.39,45,Europe,Mobile,Gift Card,1,0.49,Sci-Fi,1,1,0.7137534938243151,High Risk,Win Back Inactive
+ab5b6ce1-4472-4987-b7ca-dd71334f9592,39,Other,Premium,17.99,1.12,27,North America,Mobile,Gift Card,5,0.04,Sci-Fi,1,1,0.7067040978072212,High Risk,Re-engage Low Watch Time
+fcf17ea1-2e26-45b6-8c64-052a0c84e1a4,69,Other,Premium,17.99,3.84,30,Asia,Desktop,Crypto,5,0.12,Documentary,1,1,0.7048662900320964,High Risk,Win Back Inactive
+b2f4e8db-e2b0-42f7-81aa-26e6239d7d25,37,Male,Premium,17.99,2.44,8,Europe,Mobile,Crypto,2,0.27,Comedy,1,1,0.7046860811191555,High Risk,Re-engage Low Watch Time
+79834450-f52d-498e-902b-cb69d3f6c6a4,26,Female,Premium,17.99,16.27,34,Asia,Mobile,Crypto,3,0.46,Drama,1,1,0.7041580452833607,High Risk,Win Back Inactive
+1cb5c1a8-8724-4edc-8255-06b1152f5dea,64,Female,Premium,17.99,4.42,17,South America,Laptop,Crypto,3,0.25,Horror,1,1,0.7037952848979705,High Risk,Re-engage Low Watch Time
+f31c3891-2944-40ab-a8ef-92b11b3f4334,25,Male,Premium,17.99,13.12,47,Asia,Mobile,Crypto,5,0.27,Drama,1,1,0.703510212033815,High Risk,Win Back Inactive
+8d258669-8a00-4643-9a8b-f004488b0472,24,Male,Standard,13.99,3.05,9,North America,TV,Crypto,1,0.3,Action,1,1,0.7013820125648609,High Risk,Re-engage Low Watch Time
+c9fa7288-917d-4b7c-8538-dcc9d103ab8b,66,Male,Standard,13.99,0.24,13,Oceania,Tablet,Crypto,5,0.02,Action,1,1,0.7009757250906522,High Risk,Re-engage Low Watch Time
+7cdc323f-67af-48e2-b15b-3e94cf19681f,36,Other,Standard,13.99,2.79,10,Europe,Desktop,Gift Card,1,0.25,Sci-Fi,1,1,0.6962741780513751,High Risk,Re-engage Low Watch Time
+bab5dc46-e42e-406c-bcde-6ec042c2379b,68,Other,Premium,17.99,11.27,52,South America,TV,Crypto,4,0.21,Documentary,1,1,0.6954824855418493,High Risk,Win Back Inactive
+dc67ab9c-2786-4c67-8b27-3891f2676446,63,Male,Standard,13.99,5.16,53,North America,Desktop,Debit Card,5,0.1,Romance,0,1,0.694643772150356,High Risk,Win Back Inactive
+bc860dfd-b813-4828-a17c-0b55c994de44,30,Male,Standard,13.99,10.47,50,Africa,Mobile,Crypto,4,0.21,Sci-Fi,1,1,0.6938079656250495,High Risk,Win Back Inactive
+dc5b0984-88d3-4ff3-b093-f0cfdb80070d,22,Female,Premium,17.99,0.79,17,North America,Mobile,Crypto,4,0.04,Horror,1,1,0.6937547056165869,High Risk,Re-engage Low Watch Time
+b4147601-494d-43c8-8ff2-1320cc1d525f,60,Female,Premium,17.99,11.15,49,South America,Desktop,Crypto,5,0.22,Romance,1,1,0.6928601966725172,High Risk,Win Back Inactive
+352b88dc-f431-41cc-ab32-20829a4e4e37,36,Female,Standard,13.99,16.29,48,North America,Mobile,Crypto,4,0.33,Documentary,1,1,0.6925901735746267,High Risk,Win Back Inactive
+8f35fbad-1939-4a3c-a811-bbe07ef61935,33,Female,Premium,17.99,0.44,17,North America,Mobile,Crypto,4,0.02,Romance,1,1,0.6892914948544114,High Risk,Re-engage Low Watch Time
+760b70e5-2135-4106-bf18-2df119411aa4,28,Female,Premium,17.99,3.16,8,Europe,Tablet,Crypto,1,0.35,Horror,1,1,0.6883252851146271,High Risk,Re-engage Low Watch Time
+1d13d8f1-ee57-45e2-981a-5ec74bc67f1d,58,Male,Premium,17.99,11.98,41,South America,Tablet,Crypto,4,0.29,Romance,1,1,0.6832906227359057,High Risk,Win Back Inactive
+02ca32eb-bc08-4a92-8c39-ea2fe7612be9,53,Male,Premium,17.99,2.72,8,Asia,Desktop,Crypto,1,0.3,Romance,1,1,0.6827990535042116,High Risk,Re-engage Low Watch Time
+ef94ff72-ab34-4be0-9fdb-525daa2c114c,60,Male,Basic,8.99,20.83,43,Europe,Mobile,Gift Card,5,0.47,Documentary,1,1,0.6804952877262174,High Risk,Win Back Inactive
+bb595ca1-75a4-4ff2-b2d5-7bc616908485,57,Other,Basic,8.99,21.42,51,South America,Desktop,Gift Card,4,0.41,Romance,1,1,0.6741610593953054,High Risk,Win Back Inactive
+984019b7-1f52-407c-a36f-8288f6a141a0,33,Male,Premium,17.99,0.69,13,Asia,Tablet,Crypto,4,0.05,Documentary,1,1,0.6725729515354684,High Risk,Re-engage Low Watch Time
+2eb65cb4-3e68-4e6a-abb5-fb5988bcd903,31,Female,Premium,17.99,4.03,24,Oceania,Mobile,Gift Card,5,0.16,Drama,1,1,0.6581901727670484,High Risk,Re-engage Low Watch Time
+2b48ac28-5439-47a6-b935-4438f01794ee,24,Male,Standard,13.99,0.49,2,Oceania,Laptop,Debit Card,2,0.16,Romance,0,1,0.6486966383301739,High Risk,Re-engage Low Watch Time
+c185f0f8-0410-4e1c-bc87-40f90824bf1d,31,Male,Basic,8.99,2.85,5,Oceania,Mobile,Debit Card,5,0.48,Horror,1,1,0.6433648689576356,High Risk,Re-engage Low Watch Time
+99ac905d-c892-41e1-b9dc-619aace2175a,51,Female,Standard,13.99,1.91,8,Europe,Laptop,PayPal,3,0.21,Comedy,1,1,0.6381772527606351,High Risk,Re-engage Low Watch Time
+2b91949d-dcf1-41ea-a2d7-4c9314f5279d,37,Male,Standard,13.99,5.08,40,Africa,Laptop,PayPal,4,0.12,Documentary,0,1,0.6351379718581933,High Risk,Win Back Inactive
+64b4c226-5693-4b0c-a064-e5e7567ef883,36,Male,Premium,17.99,6.16,53,Europe,Mobile,Credit Card,4,0.11,Sci-Fi,0,1,0.6333634599311098,High Risk,Win Back Inactive
+f7f78b0a-14a9-43c0-8ab4-dbae4364badc,22,Male,Premium,17.99,1.78,17,Africa,Desktop,Gift Card,4,0.1,Documentary,1,1,0.6295025584820483,High Risk,Re-engage Low Watch Time
+7108b055-a04f-4eb1-b937-acf3b9eacbfc,37,Male,Premium,17.99,0.64,10,Europe,Desktop,Gift Card,5,0.06,Comedy,1,1,0.6291168927278483,High Risk,Re-engage Low Watch Time
+750a6638-3b93-407c-80b6-074f7b7e9673,45,Other,Premium,17.99,19.18,49,North America,Mobile,Gift Card,5,0.38,Documentary,1,1,0.6225024596277985,High Risk,Win Back Inactive
+5ab5431d-4185-4b4f-be21-4183473aa0a9,53,Other,Premium,17.99,4.49,10,South America,Tablet,Debit Card,1,0.41,Action,1,1,0.620742061961495,High Risk,Re-engage Low Watch Time
+da7b0235-ccf2-4fc3-8244-cfd2258370ec,61,Other,Premium,17.99,0.25,1,North America,Desktop,PayPal,2,0.12,Sci-Fi,0,1,0.6140753468150405,High Risk,Re-engage Low Watch Time
+35687a5e-84aa-4fd3-8a35-6d2c4ede909e,46,Female,Premium,17.99,4.16,13,North America,Tablet,Debit Card,2,0.3,Sci-Fi,1,1,0.610148516856897,High Risk,Re-engage Low Watch Time
+1a4dc981-f642-40e7-be57-eb92abdce2cd,38,Other,Premium,17.99,0.55,3,Africa,Desktop,Debit Card,1,0.14,Documentary,1,1,0.6099070978744641,High Risk,Re-engage Low Watch Time
+065606ab-5f1f-428f-b2c5-c6da4baf9597,27,Male,Premium,17.99,6.31,55,Africa,Tablet,PayPal,4,0.11,Comedy,0,1,0.6095467033752018,High Risk,Win Back Inactive
+dcea56c8-d72f-4f30-9afb-5b064d171f83,65,Male,Premium,17.99,6.14,58,Asia,Desktop,Debit Card,4,0.1,Comedy,0,1,0.6053526663937212,High Risk,Win Back Inactive
+57b1d167-a660-48d5-8fca-f75fa0837d41,57,Male,Standard,13.99,18.93,42,Africa,TV,Gift Card,5,0.44,Romance,1,1,0.6051070509306882,High Risk,Win Back Inactive
